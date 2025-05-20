@@ -1,0 +1,1001 @@
+timestamp,user_id,zone,feedback_type,rating,comment
+2024-05-01 00:00:00,424207c4,Dining Hall,cleaning,3,Needs improvement.
+2024-05-01 00:03:00,451dd265,Kitchen,cleaning,5,Loved it!
+2024-05-01 00:06:00,72153c9b,Dining Hall,cleaning,4,Not satisfied.
+2024-05-01 00:09:00,142cd61b,Dining Hall,cleaning,4,Great food!
+2024-05-01 00:12:00,294b65b6,Kitchen,food_quality,4,Excellent service.
+2024-05-01 00:15:00,fec1e00a,Restroom,cleaning,1,Clean environment.
+2024-05-01 00:18:00,23634b78,Kitchen,temperature,4,Clean environment.
+2024-05-01 00:21:00,dd7e6354,Kitchen,cleaning,5,Not satisfied.
+2024-05-01 00:24:00,de6df6ea,Dining Hall,temperature,5,Loved it!
+2024-05-01 00:27:00,1c3a15ea,Kitchen,temperature,2,Too spicy.
+2024-05-01 00:30:00,3c91209c,Dining Hall,food_quality,1,Needs improvement.
+2024-05-01 00:33:00,3933c32b,Restroom,cleaning,5,Great food!
+2024-05-01 00:36:00,e54b266a,Kitchen,temperature,3,Needs improvement.
+2024-05-01 00:39:00,4c54ce84,Kitchen,cleaning,1,Loved it!
+2024-05-01 00:42:00,f1fe62af,Dining Hall,food_quality,1,Excellent service.
+2024-05-01 00:45:00,d973e98d,Kitchen,cleaning,5,Loved it!
+2024-05-01 00:48:00,db439b88,Kitchen,temperature,3,Not satisfied.
+2024-05-01 00:51:00,d2c133ec,Dining Hall,food_quality,2,AC is too cold.
+2024-05-01 00:54:00,bf2f43a4,Dining Hall,food_quality,5,Clean environment.
+2024-05-01 00:57:00,28c3ea79,Kitchen,cleaning,3,Could be better.
+2024-05-01 01:00:00,f82f93a4,Restroom,cleaning,1,Great food!
+2024-05-01 01:03:00,815e79c2,Restroom,temperature,3,AC is too cold.
+2024-05-01 01:06:00,9c947d4c,Restroom,food_quality,1,Loved it!
+2024-05-01 01:09:00,10d5b031,Restroom,food_quality,5,Not satisfied.
+2024-05-01 01:12:00,859e6375,Dining Hall,temperature,5,Not satisfied.
+2024-05-01 01:15:00,e46d4567,Kitchen,food_quality,4,Not satisfied.
+2024-05-01 01:18:00,bc1be902,Restroom,food_quality,4,Too spicy.
+2024-05-01 01:21:00,83dcdc69,Restroom,food_quality,4,Excellent service.
+2024-05-01 01:24:00,f32e5303,Dining Hall,food_quality,5,Excellent service.
+2024-05-01 01:27:00,17836298,Dining Hall,food_quality,2,Excellent service.
+2024-05-01 01:30:00,5e72429e,Dining Hall,cleaning,5,Too spicy.
+2024-05-01 01:33:00,c42450c6,Restroom,temperature,3,Not satisfied.
+2024-05-01 01:36:00,caac43f6,Kitchen,food_quality,5,Loved it!
+2024-05-01 01:39:00,00523d9d,Kitchen,cleaning,5,Needs improvement.
+2024-05-01 01:42:00,539d1a77,Restroom,food_quality,1,Needs improvement.
+2024-05-01 01:45:00,25ef9faa,Dining Hall,temperature,1,Too spicy.
+2024-05-01 01:48:00,e3098cea,Kitchen,cleaning,1,Clean environment.
+2024-05-01 01:51:00,f9b5c7dd,Restroom,cleaning,5,Too spicy.
+2024-05-01 01:54:00,c7695b56,Dining Hall,temperature,2,Not satisfied.
+2024-05-01 01:57:00,f49f22c1,Kitchen,food_quality,3,Could be better.
+2024-05-01 02:00:00,a0668874,Dining Hall,temperature,3,Too spicy.
+2024-05-01 02:03:00,77057232,Restroom,temperature,2,AC is too cold.
+2024-05-01 02:06:00,ff2bf22a,Dining Hall,cleaning,2,Loved it!
+2024-05-01 02:09:00,bb8f841c,Restroom,food_quality,3,Too spicy.
+2024-05-01 02:12:00,f3c75da5,Kitchen,temperature,4,Needs improvement.
+2024-05-01 02:15:00,c7db9760,Kitchen,cleaning,1,Clean environment.
+2024-05-01 02:18:00,4894cc11,Kitchen,food_quality,1,Loved it!
+2024-05-01 02:21:00,922da044,Dining Hall,food_quality,3,Needs improvement.
+2024-05-01 02:24:00,210d3b86,Restroom,cleaning,2,Could be better.
+2024-05-01 02:27:00,7e054f9b,Restroom,food_quality,4,Too spicy.
+2024-05-01 02:30:00,9914d328,Kitchen,temperature,3,Excellent service.
+2024-05-01 02:33:00,515f4504,Restroom,temperature,1,Could be better.
+2024-05-01 02:36:00,7f709ec1,Dining Hall,temperature,5,Could be better.
+2024-05-01 02:39:00,73d66349,Kitchen,temperature,2,Clean environment.
+2024-05-01 02:42:00,58693a42,Kitchen,food_quality,5,Great food!
+2024-05-01 02:45:00,8d0b82d8,Restroom,cleaning,3,Great food!
+2024-05-01 02:48:00,80f4cb14,Restroom,food_quality,1,Loved it!
+2024-05-01 02:51:00,f0e6defd,Dining Hall,cleaning,4,Could be better.
+2024-05-01 02:54:00,ec45e7a2,Dining Hall,food_quality,5,Not satisfied.
+2024-05-01 02:57:00,70a997ae,Restroom,food_quality,4,Clean environment.
+2024-05-01 03:00:00,7b87ea4f,Dining Hall,temperature,1,Great food!
+2024-05-01 03:03:00,b67628c4,Dining Hall,temperature,5,Great food!
+2024-05-01 03:06:00,c08898e3,Kitchen,food_quality,4,AC is too cold.
+2024-05-01 03:09:00,aceec22d,Dining Hall,temperature,4,Not satisfied.
+2024-05-01 03:12:00,775869d4,Kitchen,food_quality,5,Not satisfied.
+2024-05-01 03:15:00,cb98aa14,Kitchen,cleaning,1,Too spicy.
+2024-05-01 03:18:00,6c3117ff,Restroom,temperature,4,Needs improvement.
+2024-05-01 03:21:00,25efe9bc,Kitchen,food_quality,3,AC is too cold.
+2024-05-01 03:24:00,9f766e63,Kitchen,cleaning,5,Loved it!
+2024-05-01 03:27:00,656156b6,Kitchen,cleaning,2,Too spicy.
+2024-05-01 03:30:00,bff658ca,Kitchen,temperature,2,Excellent service.
+2024-05-01 03:33:00,5e878790,Kitchen,temperature,1,Needs improvement.
+2024-05-01 03:36:00,b6e00e31,Restroom,cleaning,3,Great food!
+2024-05-01 03:39:00,b6b48358,Restroom,temperature,4,Loved it!
+2024-05-01 03:42:00,96536902,Kitchen,cleaning,2,Clean environment.
+2024-05-01 03:45:00,d7c526fc,Dining Hall,cleaning,1,Clean environment.
+2024-05-01 03:48:00,ebf19a65,Restroom,cleaning,3,Excellent service.
+2024-05-01 03:51:00,ca4ca426,Kitchen,cleaning,3,Could be better.
+2024-05-01 03:54:00,151b90d5,Kitchen,temperature,1,Clean environment.
+2024-05-01 03:57:00,99e3558c,Kitchen,food_quality,1,Loved it!
+2024-05-01 04:00:00,a575c431,Kitchen,cleaning,4,Needs improvement.
+2024-05-01 04:03:00,561abc72,Restroom,cleaning,1,Could be better.
+2024-05-01 04:06:00,55562d5a,Restroom,temperature,4,Clean environment.
+2024-05-01 04:09:00,b3a38569,Dining Hall,food_quality,4,Excellent service.
+2024-05-01 04:12:00,4b107116,Dining Hall,temperature,5,Excellent service.
+2024-05-01 04:15:00,af58c229,Restroom,cleaning,3,Could be better.
+2024-05-01 04:18:00,b50b0b75,Kitchen,cleaning,3,Great food!
+2024-05-01 04:21:00,f3cfbf0b,Restroom,cleaning,3,Too spicy.
+2024-05-01 04:24:00,eab8a852,Restroom,temperature,5,AC is too cold.
+2024-05-01 04:27:00,493e4583,Restroom,cleaning,4,Great food!
+2024-05-01 04:30:00,4d19fa20,Kitchen,cleaning,4,Needs improvement.
+2024-05-01 04:33:00,46aa9522,Dining Hall,cleaning,1,Loved it!
+2024-05-01 04:36:00,317bbbe2,Restroom,temperature,5,AC is too cold.
+2024-05-01 04:39:00,aeec869c,Kitchen,cleaning,1,Too spicy.
+2024-05-01 04:42:00,f7d46166,Dining Hall,cleaning,5,Too spicy.
+2024-05-01 04:45:00,96b99607,Kitchen,cleaning,1,Could be better.
+2024-05-01 04:48:00,8cf5ee99,Kitchen,temperature,2,Could be better.
+2024-05-01 04:51:00,8f76e681,Restroom,temperature,3,Could be better.
+2024-05-01 04:54:00,92fae691,Dining Hall,cleaning,3,Great food!
+2024-05-01 04:57:00,9126fa29,Restroom,food_quality,4,Excellent service.
+2024-05-01 05:00:00,c0c7b2f6,Dining Hall,cleaning,2,Excellent service.
+2024-05-01 05:03:00,e13cd5cb,Dining Hall,temperature,3,Not satisfied.
+2024-05-01 05:06:00,9a0b04b5,Kitchen,cleaning,4,Not satisfied.
+2024-05-01 05:09:00,cce437b2,Kitchen,cleaning,2,Loved it!
+2024-05-01 05:12:00,145e11c4,Kitchen,cleaning,3,Not satisfied.
+2024-05-01 05:15:00,1cab0428,Restroom,temperature,1,Great food!
+2024-05-01 05:18:00,660c1ce1,Dining Hall,cleaning,5,Too spicy.
+2024-05-01 05:21:00,c2e51238,Restroom,food_quality,2,Not satisfied.
+2024-05-01 05:24:00,b0425133,Restroom,food_quality,4,Too spicy.
+2024-05-01 05:27:00,c8672c68,Dining Hall,temperature,2,Needs improvement.
+2024-05-01 05:30:00,bfcc450e,Kitchen,temperature,4,Loved it!
+2024-05-01 05:33:00,9e052912,Dining Hall,food_quality,2,Great food!
+2024-05-01 05:36:00,8e9a9f4b,Kitchen,temperature,4,Not satisfied.
+2024-05-01 05:39:00,6bd78f11,Restroom,temperature,3,AC is too cold.
+2024-05-01 05:42:00,408d9db7,Dining Hall,temperature,1,Great food!
+2024-05-01 05:45:00,3a3e21e5,Dining Hall,cleaning,3,Too spicy.
+2024-05-01 05:48:00,580c5397,Kitchen,food_quality,1,AC is too cold.
+2024-05-01 05:51:00,dccf5102,Kitchen,cleaning,3,Clean environment.
+2024-05-01 05:54:00,b650a319,Kitchen,cleaning,3,Could be better.
+2024-05-01 05:57:00,58e89e2a,Kitchen,temperature,2,Great food!
+2024-05-01 06:00:00,7a59e5e3,Restroom,temperature,5,Not satisfied.
+2024-05-01 06:03:00,8df47fed,Kitchen,cleaning,4,AC is too cold.
+2024-05-01 06:06:00,ef9f9516,Restroom,food_quality,4,Needs improvement.
+2024-05-01 06:09:00,881745d6,Kitchen,food_quality,4,Great food!
+2024-05-01 06:12:00,7049ae0d,Restroom,cleaning,1,Not satisfied.
+2024-05-01 06:15:00,945bef14,Kitchen,cleaning,4,AC is too cold.
+2024-05-01 06:18:00,f0c6eff6,Restroom,cleaning,4,Could be better.
+2024-05-01 06:21:00,09f02ba4,Kitchen,temperature,2,Great food!
+2024-05-01 06:24:00,12c63b94,Dining Hall,temperature,3,Great food!
+2024-05-01 06:27:00,b8866749,Kitchen,cleaning,4,Needs improvement.
+2024-05-01 06:30:00,ed2e215c,Kitchen,cleaning,5,AC is too cold.
+2024-05-01 06:33:00,03ab92df,Dining Hall,temperature,4,Too spicy.
+2024-05-01 06:36:00,21c61b44,Dining Hall,food_quality,1,Needs improvement.
+2024-05-01 06:39:00,b0d672ab,Restroom,temperature,1,Loved it!
+2024-05-01 06:42:00,549a68a2,Restroom,temperature,1,AC is too cold.
+2024-05-01 06:45:00,9c5bb9aa,Dining Hall,temperature,4,Excellent service.
+2024-05-01 06:48:00,3e1097aa,Restroom,temperature,2,Needs improvement.
+2024-05-01 06:51:00,f1cf58d4,Kitchen,temperature,5,Clean environment.
+2024-05-01 06:54:00,2cf569b2,Restroom,cleaning,4,Clean environment.
+2024-05-01 06:57:00,cfae22c2,Kitchen,food_quality,2,Clean environment.
+2024-05-01 07:00:00,f7a11f74,Restroom,temperature,2,Needs improvement.
+2024-05-01 07:03:00,7b1e8c27,Restroom,cleaning,4,Clean environment.
+2024-05-01 07:06:00,e16bd7c1,Dining Hall,cleaning,4,AC is too cold.
+2024-05-01 07:09:00,db884494,Restroom,food_quality,2,Great food!
+2024-05-01 07:12:00,034a1d72,Kitchen,cleaning,2,Clean environment.
+2024-05-01 07:15:00,d0590c93,Dining Hall,temperature,2,Loved it!
+2024-05-01 07:18:00,76051287,Restroom,cleaning,4,Needs improvement.
+2024-05-01 07:21:00,167c5e04,Kitchen,food_quality,2,Not satisfied.
+2024-05-01 07:24:00,4c408bd4,Dining Hall,food_quality,1,Too spicy.
+2024-05-01 07:27:00,adc165b3,Kitchen,cleaning,4,Excellent service.
+2024-05-01 07:30:00,b3452c44,Dining Hall,food_quality,1,Loved it!
+2024-05-01 07:33:00,e6d5543e,Dining Hall,cleaning,3,Clean environment.
+2024-05-01 07:36:00,5dee7491,Kitchen,food_quality,4,Too spicy.
+2024-05-01 07:39:00,afd7195d,Kitchen,cleaning,3,Could be better.
+2024-05-01 07:42:00,3c7d0947,Restroom,cleaning,2,Clean environment.
+2024-05-01 07:45:00,879e21f7,Kitchen,temperature,2,Clean environment.
+2024-05-01 07:48:00,ef78a5f5,Dining Hall,food_quality,5,AC is too cold.
+2024-05-01 07:51:00,3c7dfadd,Kitchen,food_quality,2,Great food!
+2024-05-01 07:54:00,a53d07c3,Dining Hall,food_quality,3,AC is too cold.
+2024-05-01 07:57:00,a9c2c09e,Restroom,food_quality,2,Clean environment.
+2024-05-01 08:00:00,1654b300,Dining Hall,cleaning,4,Too spicy.
+2024-05-01 08:03:00,a49d3315,Kitchen,cleaning,2,Too spicy.
+2024-05-01 08:06:00,2c97c6cd,Kitchen,food_quality,5,Needs improvement.
+2024-05-01 08:09:00,bdafb5f9,Restroom,food_quality,2,Not satisfied.
+2024-05-01 08:12:00,9af55263,Kitchen,temperature,3,Needs improvement.
+2024-05-01 08:15:00,ce67519b,Dining Hall,temperature,3,Great food!
+2024-05-01 08:18:00,29525a80,Kitchen,cleaning,2,AC is too cold.
+2024-05-01 08:21:00,3e29420c,Dining Hall,food_quality,3,Not satisfied.
+2024-05-01 08:24:00,132e2a47,Kitchen,temperature,3,Clean environment.
+2024-05-01 08:27:00,57d635ef,Restroom,cleaning,5,Clean environment.
+2024-05-01 08:30:00,f729980c,Dining Hall,temperature,4,Excellent service.
+2024-05-01 08:33:00,40b9dd35,Dining Hall,food_quality,5,Great food!
+2024-05-01 08:36:00,5203275f,Dining Hall,food_quality,1,AC is too cold.
+2024-05-01 08:39:00,540aaccb,Kitchen,temperature,5,AC is too cold.
+2024-05-01 08:42:00,bb73072e,Restroom,cleaning,2,AC is too cold.
+2024-05-01 08:45:00,d661adb6,Dining Hall,temperature,4,Needs improvement.
+2024-05-01 08:48:00,84644496,Restroom,temperature,2,Clean environment.
+2024-05-01 08:51:00,9108e92a,Kitchen,temperature,1,Loved it!
+2024-05-01 08:54:00,4ca33a3d,Kitchen,food_quality,4,Loved it!
+2024-05-01 08:57:00,fdfba874,Restroom,food_quality,3,Loved it!
+2024-05-01 09:00:00,fef381c4,Restroom,food_quality,5,Needs improvement.
+2024-05-01 09:03:00,b4badd6f,Restroom,food_quality,2,AC is too cold.
+2024-05-01 09:06:00,575a3027,Restroom,food_quality,1,Not satisfied.
+2024-05-01 09:09:00,4bae8ef3,Kitchen,cleaning,3,Great food!
+2024-05-01 09:12:00,a59b5ae4,Kitchen,cleaning,5,Clean environment.
+2024-05-01 09:15:00,97ccedfd,Dining Hall,cleaning,3,Could be better.
+2024-05-01 09:18:00,b895bb86,Dining Hall,food_quality,5,AC is too cold.
+2024-05-01 09:21:00,53888fa8,Dining Hall,cleaning,4,Great food!
+2024-05-01 09:24:00,93c7444b,Restroom,temperature,3,Could be better.
+2024-05-01 09:27:00,d9e6a775,Kitchen,temperature,3,Loved it!
+2024-05-01 09:30:00,605a851e,Kitchen,cleaning,3,AC is too cold.
+2024-05-01 09:33:00,9f0947a9,Kitchen,cleaning,4,Excellent service.
+2024-05-01 09:36:00,8cf6db26,Kitchen,cleaning,1,Excellent service.
+2024-05-01 09:39:00,3af80210,Dining Hall,cleaning,5,Not satisfied.
+2024-05-01 09:42:00,8838aa5a,Kitchen,temperature,3,AC is too cold.
+2024-05-01 09:45:00,bcef5335,Restroom,cleaning,4,Great food!
+2024-05-01 09:48:00,e023e894,Dining Hall,cleaning,1,Not satisfied.
+2024-05-01 09:51:00,b358a38d,Dining Hall,food_quality,5,Great food!
+2024-05-01 09:54:00,1dcee4ed,Dining Hall,cleaning,4,Clean environment.
+2024-05-01 09:57:00,a69fb738,Kitchen,food_quality,5,Needs improvement.
+2024-05-01 10:00:00,50dab689,Kitchen,temperature,3,Too spicy.
+2024-05-01 10:03:00,ef51abc5,Restroom,cleaning,1,Too spicy.
+2024-05-01 10:06:00,7ec6ca25,Restroom,cleaning,4,Needs improvement.
+2024-05-01 10:09:00,b438b6d3,Dining Hall,cleaning,1,AC is too cold.
+2024-05-01 10:12:00,d9a89082,Dining Hall,food_quality,3,Great food!
+2024-05-01 10:15:00,e5086960,Dining Hall,cleaning,1,Great food!
+2024-05-01 10:18:00,8ac142a7,Kitchen,food_quality,1,Excellent service.
+2024-05-01 10:21:00,155302c4,Kitchen,cleaning,2,Could be better.
+2024-05-01 10:24:00,298ca558,Dining Hall,food_quality,1,Loved it!
+2024-05-01 10:27:00,0a35cccc,Kitchen,temperature,5,AC is too cold.
+2024-05-01 10:30:00,557e77bf,Restroom,cleaning,4,Excellent service.
+2024-05-01 10:33:00,b6c12176,Dining Hall,temperature,2,Excellent service.
+2024-05-01 10:36:00,2c1b7729,Dining Hall,temperature,4,Too spicy.
+2024-05-01 10:39:00,fef3ad51,Restroom,food_quality,4,Loved it!
+2024-05-01 10:42:00,be941618,Kitchen,temperature,3,Could be better.
+2024-05-01 10:45:00,218fb609,Kitchen,temperature,3,Needs improvement.
+2024-05-01 10:48:00,4afd8abf,Kitchen,food_quality,2,Loved it!
+2024-05-01 10:51:00,c8323539,Restroom,temperature,3,Great food!
+2024-05-01 10:54:00,8f960292,Dining Hall,temperature,3,Needs improvement.
+2024-05-01 10:57:00,be9921af,Kitchen,temperature,3,Too spicy.
+2024-05-01 11:00:00,c2a856b5,Kitchen,cleaning,4,AC is too cold.
+2024-05-01 11:03:00,ace407b7,Dining Hall,cleaning,2,Loved it!
+2024-05-01 11:06:00,b072ac1e,Restroom,temperature,4,Clean environment.
+2024-05-01 11:09:00,d87c0937,Dining Hall,temperature,5,Could be better.
+2024-05-01 11:12:00,41cfdfba,Kitchen,cleaning,4,Loved it!
+2024-05-01 11:15:00,c57d8832,Kitchen,temperature,5,Clean environment.
+2024-05-01 11:18:00,0dd11c37,Dining Hall,food_quality,1,Great food!
+2024-05-01 11:21:00,7998f4a5,Dining Hall,cleaning,1,Clean environment.
+2024-05-01 11:24:00,5f1499b4,Restroom,temperature,5,Clean environment.
+2024-05-01 11:27:00,075516da,Kitchen,temperature,5,Loved it!
+2024-05-01 11:30:00,7158ba6c,Kitchen,food_quality,4,Clean environment.
+2024-05-01 11:33:00,8f7e798b,Kitchen,food_quality,5,Too spicy.
+2024-05-01 11:36:00,e28df3a6,Kitchen,temperature,2,Loved it!
+2024-05-01 11:39:00,7b880fc4,Kitchen,temperature,1,Needs improvement.
+2024-05-01 11:42:00,16144285,Kitchen,cleaning,1,Excellent service.
+2024-05-01 11:45:00,066de8f6,Dining Hall,food_quality,5,Not satisfied.
+2024-05-01 11:48:00,48c3ee18,Kitchen,food_quality,3,Clean environment.
+2024-05-01 11:51:00,16122f5f,Dining Hall,food_quality,3,AC is too cold.
+2024-05-01 11:54:00,6dfef7f1,Dining Hall,food_quality,5,Not satisfied.
+2024-05-01 11:57:00,dd89cc90,Restroom,food_quality,2,Loved it!
+2024-05-01 12:00:00,6432c7e2,Restroom,cleaning,3,Could be better.
+2024-05-01 12:03:00,9f88a449,Kitchen,temperature,5,Could be better.
+2024-05-01 12:06:00,272b6d24,Kitchen,temperature,2,Clean environment.
+2024-05-01 12:09:00,eaa9ff82,Dining Hall,food_quality,2,Needs improvement.
+2024-05-01 12:12:00,eb4bd263,Kitchen,cleaning,4,Clean environment.
+2024-05-01 12:15:00,f1438d5f,Kitchen,food_quality,2,Needs improvement.
+2024-05-01 12:18:00,47b515e7,Restroom,temperature,3,Loved it!
+2024-05-01 12:21:00,7082dff4,Kitchen,cleaning,3,Not satisfied.
+2024-05-01 12:24:00,ef3646ab,Dining Hall,temperature,5,Too spicy.
+2024-05-01 12:27:00,199e3449,Kitchen,food_quality,5,Not satisfied.
+2024-05-01 12:30:00,3d5bee55,Restroom,food_quality,2,Not satisfied.
+2024-05-01 12:33:00,5d5148a2,Restroom,food_quality,1,Needs improvement.
+2024-05-01 12:36:00,c9c39bb1,Dining Hall,cleaning,4,Not satisfied.
+2024-05-01 12:39:00,b632632d,Kitchen,food_quality,1,Too spicy.
+2024-05-01 12:42:00,d5d25f58,Kitchen,temperature,2,Loved it!
+2024-05-01 12:45:00,f5d0856c,Kitchen,cleaning,2,Too spicy.
+2024-05-01 12:48:00,ddecb834,Kitchen,food_quality,1,Clean environment.
+2024-05-01 12:51:00,c48be77b,Dining Hall,temperature,4,Not satisfied.
+2024-05-01 12:54:00,28ba351d,Restroom,food_quality,1,Loved it!
+2024-05-01 12:57:00,e0bbad58,Kitchen,food_quality,5,AC is too cold.
+2024-05-01 13:00:00,33dfded7,Kitchen,temperature,3,Not satisfied.
+2024-05-01 13:03:00,7b347b4a,Restroom,cleaning,5,Clean environment.
+2024-05-01 13:06:00,28090b30,Kitchen,food_quality,3,Too spicy.
+2024-05-01 13:09:00,b8e79379,Dining Hall,temperature,2,Great food!
+2024-05-01 13:12:00,607141ce,Kitchen,temperature,4,Excellent service.
+2024-05-01 13:15:00,610e5412,Restroom,food_quality,1,Loved it!
+2024-05-01 13:18:00,491f4538,Kitchen,food_quality,4,Great food!
+2024-05-01 13:21:00,c6478e08,Dining Hall,food_quality,1,Could be better.
+2024-05-01 13:24:00,34c25f8d,Restroom,food_quality,5,Loved it!
+2024-05-01 13:27:00,fd1e54e1,Restroom,food_quality,5,Excellent service.
+2024-05-01 13:30:00,162014c1,Kitchen,cleaning,1,Needs improvement.
+2024-05-01 13:33:00,0ab5c565,Restroom,cleaning,4,Could be better.
+2024-05-01 13:36:00,ca4c6405,Restroom,food_quality,1,Not satisfied.
+2024-05-01 13:39:00,043fe484,Restroom,food_quality,2,Loved it!
+2024-05-01 13:42:00,4e8725ce,Restroom,temperature,5,AC is too cold.
+2024-05-01 13:45:00,2c65e422,Kitchen,temperature,2,Needs improvement.
+2024-05-01 13:48:00,4c814a07,Dining Hall,food_quality,5,Too spicy.
+2024-05-01 13:51:00,df5ee9ef,Dining Hall,cleaning,5,Needs improvement.
+2024-05-01 13:54:00,00d8d8c4,Dining Hall,food_quality,3,AC is too cold.
+2024-05-01 13:57:00,201be646,Restroom,cleaning,2,AC is too cold.
+2024-05-01 14:00:00,38d1ba0f,Dining Hall,cleaning,2,Too spicy.
+2024-05-01 14:03:00,0927ce14,Kitchen,food_quality,3,Could be better.
+2024-05-01 14:06:00,76aac435,Kitchen,food_quality,4,Clean environment.
+2024-05-01 14:09:00,d2ccce14,Restroom,food_quality,2,Could be better.
+2024-05-01 14:12:00,be04659c,Restroom,cleaning,1,Excellent service.
+2024-05-01 14:15:00,06910fb8,Dining Hall,food_quality,3,AC is too cold.
+2024-05-01 14:18:00,797b7a28,Restroom,food_quality,2,AC is too cold.
+2024-05-01 14:21:00,bbc1c779,Kitchen,cleaning,4,Excellent service.
+2024-05-01 14:24:00,19368097,Dining Hall,food_quality,2,Clean environment.
+2024-05-01 14:27:00,8cbae34c,Restroom,cleaning,5,AC is too cold.
+2024-05-01 14:30:00,89822326,Dining Hall,cleaning,1,Clean environment.
+2024-05-01 14:33:00,2bd5706a,Restroom,food_quality,3,AC is too cold.
+2024-05-01 14:36:00,636ac320,Dining Hall,temperature,5,Needs improvement.
+2024-05-01 14:39:00,03bdae2c,Restroom,food_quality,4,Not satisfied.
+2024-05-01 14:42:00,c9fcab2c,Restroom,temperature,5,Not satisfied.
+2024-05-01 14:45:00,c81badb3,Dining Hall,cleaning,5,Loved it!
+2024-05-01 14:48:00,611e12c5,Restroom,cleaning,4,Great food!
+2024-05-01 14:51:00,9bc7ae17,Kitchen,cleaning,5,Excellent service.
+2024-05-01 14:54:00,aea52e12,Restroom,cleaning,3,Excellent service.
+2024-05-01 14:57:00,41f5e64f,Dining Hall,food_quality,2,Loved it!
+2024-05-01 15:00:00,824ff3e1,Kitchen,food_quality,5,AC is too cold.
+2024-05-01 15:03:00,a684fb6a,Restroom,temperature,3,Too spicy.
+2024-05-01 15:06:00,43f20be1,Dining Hall,temperature,2,Great food!
+2024-05-01 15:09:00,ac9c4d7a,Kitchen,temperature,2,Excellent service.
+2024-05-01 15:12:00,f4bf1032,Restroom,food_quality,5,Could be better.
+2024-05-01 15:15:00,1cca4f90,Dining Hall,temperature,3,Great food!
+2024-05-01 15:18:00,3967410c,Restroom,food_quality,5,Not satisfied.
+2024-05-01 15:21:00,b428f7fe,Dining Hall,temperature,4,Too spicy.
+2024-05-01 15:24:00,35e511a6,Kitchen,food_quality,2,Loved it!
+2024-05-01 15:27:00,d54bba9d,Kitchen,cleaning,5,Clean environment.
+2024-05-01 15:30:00,b64a1efd,Restroom,temperature,2,Not satisfied.
+2024-05-01 15:33:00,85203ddf,Dining Hall,temperature,3,Too spicy.
+2024-05-01 15:36:00,a1499449,Kitchen,temperature,1,AC is too cold.
+2024-05-01 15:39:00,d7f7c2cf,Dining Hall,food_quality,5,Not satisfied.
+2024-05-01 15:42:00,d37aea9c,Restroom,food_quality,5,Great food!
+2024-05-01 15:45:00,c4056c0d,Restroom,cleaning,2,Clean environment.
+2024-05-01 15:48:00,4603b96d,Restroom,food_quality,3,Clean environment.
+2024-05-01 15:51:00,c8eda940,Restroom,temperature,4,Clean environment.
+2024-05-01 15:54:00,d1816de2,Kitchen,food_quality,3,Needs improvement.
+2024-05-01 15:57:00,85aa6fa8,Restroom,cleaning,5,Great food!
+2024-05-01 16:00:00,28f891bb,Dining Hall,temperature,4,Needs improvement.
+2024-05-01 16:03:00,39f090e6,Restroom,food_quality,3,Could be better.
+2024-05-01 16:06:00,4b0c2ba7,Kitchen,cleaning,1,Needs improvement.
+2024-05-01 16:09:00,938bb456,Kitchen,food_quality,2,Great food!
+2024-05-01 16:12:00,4b4f54f7,Restroom,temperature,3,Loved it!
+2024-05-01 16:15:00,6de59766,Restroom,temperature,3,AC is too cold.
+2024-05-01 16:18:00,6c6e38ba,Restroom,food_quality,1,Too spicy.
+2024-05-01 16:21:00,34f0bba8,Restroom,temperature,5,Excellent service.
+2024-05-01 16:24:00,97cefaa5,Restroom,temperature,2,Great food!
+2024-05-01 16:27:00,90601b5b,Restroom,food_quality,3,Could be better.
+2024-05-01 16:30:00,8271eceb,Kitchen,cleaning,4,Needs improvement.
+2024-05-01 16:33:00,1f6b2a88,Restroom,cleaning,3,Great food!
+2024-05-01 16:36:00,90483c22,Dining Hall,temperature,2,Great food!
+2024-05-01 16:39:00,da15a1e7,Dining Hall,temperature,3,Could be better.
+2024-05-01 16:42:00,828df47b,Dining Hall,food_quality,1,Needs improvement.
+2024-05-01 16:45:00,80e55eb7,Dining Hall,cleaning,3,AC is too cold.
+2024-05-01 16:48:00,a221f6f4,Restroom,temperature,3,Needs improvement.
+2024-05-01 16:51:00,dd6b0096,Kitchen,food_quality,4,Clean environment.
+2024-05-01 16:54:00,cb85ad30,Restroom,cleaning,1,Not satisfied.
+2024-05-01 16:57:00,af4438ad,Restroom,cleaning,1,Could be better.
+2024-05-01 17:00:00,e4a4b866,Restroom,cleaning,3,AC is too cold.
+2024-05-01 17:03:00,56378fe9,Dining Hall,cleaning,4,Too spicy.
+2024-05-01 17:06:00,39559e94,Dining Hall,cleaning,3,Too spicy.
+2024-05-01 17:09:00,516661f4,Restroom,temperature,3,Not satisfied.
+2024-05-01 17:12:00,65c6443b,Restroom,cleaning,2,Loved it!
+2024-05-01 17:15:00,5113c67c,Dining Hall,food_quality,2,Needs improvement.
+2024-05-01 17:18:00,fee90ca1,Restroom,cleaning,4,Loved it!
+2024-05-01 17:21:00,01ae42f3,Kitchen,temperature,5,Great food!
+2024-05-01 17:24:00,64afb431,Kitchen,temperature,2,Needs improvement.
+2024-05-01 17:27:00,3c54ee31,Restroom,cleaning,5,Loved it!
+2024-05-01 17:30:00,039da66a,Dining Hall,cleaning,1,Great food!
+2024-05-01 17:33:00,8e1f4365,Dining Hall,cleaning,2,Great food!
+2024-05-01 17:36:00,1536b144,Dining Hall,cleaning,2,Not satisfied.
+2024-05-01 17:39:00,714d6720,Dining Hall,cleaning,4,Loved it!
+2024-05-01 17:42:00,ab840342,Dining Hall,food_quality,5,Loved it!
+2024-05-01 17:45:00,55cba593,Dining Hall,cleaning,2,Loved it!
+2024-05-01 17:48:00,cb3cc227,Restroom,temperature,2,AC is too cold.
+2024-05-01 17:51:00,b4c9e62e,Kitchen,cleaning,4,Great food!
+2024-05-01 17:54:00,8d708d60,Kitchen,cleaning,4,Needs improvement.
+2024-05-01 17:57:00,48058782,Dining Hall,temperature,5,Loved it!
+2024-05-01 18:00:00,92e4f257,Dining Hall,cleaning,1,Loved it!
+2024-05-01 18:03:00,04503a09,Restroom,temperature,1,Clean environment.
+2024-05-01 18:06:00,51bff287,Kitchen,food_quality,3,Clean environment.
+2024-05-01 18:09:00,d355f80b,Dining Hall,cleaning,2,Needs improvement.
+2024-05-01 18:12:00,bbfd2522,Restroom,cleaning,5,Needs improvement.
+2024-05-01 18:15:00,237267b3,Kitchen,food_quality,2,Needs improvement.
+2024-05-01 18:18:00,4659e4a1,Kitchen,cleaning,5,Could be better.
+2024-05-01 18:21:00,e3365428,Kitchen,food_quality,5,Clean environment.
+2024-05-01 18:24:00,d52bf8f4,Kitchen,cleaning,5,Clean environment.
+2024-05-01 18:27:00,1dcb84d4,Dining Hall,food_quality,2,Great food!
+2024-05-01 18:30:00,63577f40,Dining Hall,food_quality,4,Loved it!
+2024-05-01 18:33:00,8d4489ca,Restroom,temperature,2,Excellent service.
+2024-05-01 18:36:00,7f1f2429,Restroom,cleaning,5,Not satisfied.
+2024-05-01 18:39:00,030b981f,Restroom,temperature,3,Excellent service.
+2024-05-01 18:42:00,c41e19ce,Dining Hall,food_quality,1,Excellent service.
+2024-05-01 18:45:00,19054277,Dining Hall,temperature,5,Clean environment.
+2024-05-01 18:48:00,4244e7fd,Dining Hall,food_quality,3,AC is too cold.
+2024-05-01 18:51:00,bc394c5f,Restroom,cleaning,4,Needs improvement.
+2024-05-01 18:54:00,60741706,Dining Hall,food_quality,5,Needs improvement.
+2024-05-01 18:57:00,bdb4ab09,Restroom,food_quality,3,Clean environment.
+2024-05-01 19:00:00,75aa67d6,Kitchen,temperature,5,Excellent service.
+2024-05-01 19:03:00,0641325b,Dining Hall,temperature,2,Clean environment.
+2024-05-01 19:06:00,3fc5985f,Kitchen,cleaning,3,Needs improvement.
+2024-05-01 19:09:00,4a0059e3,Restroom,cleaning,2,AC is too cold.
+2024-05-01 19:12:00,607fab93,Kitchen,cleaning,2,Too spicy.
+2024-05-01 19:15:00,14cc1dff,Dining Hall,cleaning,3,Could be better.
+2024-05-01 19:18:00,bff32a0b,Kitchen,cleaning,1,AC is too cold.
+2024-05-01 19:21:00,1baac1b9,Kitchen,food_quality,3,Loved it!
+2024-05-01 19:24:00,a6201f91,Kitchen,cleaning,1,Too spicy.
+2024-05-01 19:27:00,bb60b5df,Restroom,food_quality,5,Needs improvement.
+2024-05-01 19:30:00,7e5faebf,Restroom,cleaning,5,Too spicy.
+2024-05-01 19:33:00,4e28426c,Restroom,food_quality,3,Great food!
+2024-05-01 19:36:00,ced70d0e,Kitchen,cleaning,5,Clean environment.
+2024-05-01 19:39:00,0d3362fb,Restroom,food_quality,4,Not satisfied.
+2024-05-01 19:42:00,17d3d31a,Restroom,cleaning,2,Too spicy.
+2024-05-01 19:45:00,805d1d18,Dining Hall,temperature,2,Not satisfied.
+2024-05-01 19:48:00,f13e5779,Restroom,cleaning,1,Loved it!
+2024-05-01 19:51:00,2ecabab9,Dining Hall,temperature,5,Loved it!
+2024-05-01 19:54:00,7e5a14ce,Kitchen,cleaning,1,Needs improvement.
+2024-05-01 19:57:00,1925230d,Restroom,cleaning,2,Not satisfied.
+2024-05-01 20:00:00,9bfdbe43,Kitchen,food_quality,2,Excellent service.
+2024-05-01 20:03:00,7237edb6,Kitchen,food_quality,5,Not satisfied.
+2024-05-01 20:06:00,ca172f5b,Restroom,cleaning,4,Needs improvement.
+2024-05-01 20:09:00,f8db20ee,Restroom,food_quality,4,Great food!
+2024-05-01 20:12:00,7627b468,Kitchen,temperature,5,Not satisfied.
+2024-05-01 20:15:00,f7aef103,Kitchen,food_quality,5,Clean environment.
+2024-05-01 20:18:00,22b7d0cc,Restroom,food_quality,1,Could be better.
+2024-05-01 20:21:00,52d06224,Restroom,food_quality,5,Great food!
+2024-05-01 20:24:00,544622ec,Dining Hall,temperature,4,Great food!
+2024-05-01 20:27:00,b51f6c1f,Kitchen,temperature,5,Clean environment.
+2024-05-01 20:30:00,dee48251,Kitchen,temperature,1,Too spicy.
+2024-05-01 20:33:00,31c74ddc,Restroom,temperature,1,Clean environment.
+2024-05-01 20:36:00,95eb9dcd,Dining Hall,food_quality,1,Clean environment.
+2024-05-01 20:39:00,983e48cb,Dining Hall,food_quality,1,Too spicy.
+2024-05-01 20:42:00,8e30083d,Kitchen,cleaning,3,Not satisfied.
+2024-05-01 20:45:00,64bbae1c,Dining Hall,food_quality,5,AC is too cold.
+2024-05-01 20:48:00,98a939dd,Kitchen,temperature,2,Needs improvement.
+2024-05-01 20:51:00,8aec49c5,Kitchen,cleaning,5,Loved it!
+2024-05-01 20:54:00,ea0ba522,Kitchen,food_quality,3,Clean environment.
+2024-05-01 20:57:00,1f088853,Kitchen,temperature,1,Not satisfied.
+2024-05-01 21:00:00,e4f6c5d9,Restroom,temperature,3,Great food!
+2024-05-01 21:03:00,1edbaabe,Restroom,temperature,4,Great food!
+2024-05-01 21:06:00,38d47236,Dining Hall,temperature,4,Could be better.
+2024-05-01 21:09:00,16b2e759,Kitchen,food_quality,5,Needs improvement.
+2024-05-01 21:12:00,b407c4c3,Dining Hall,temperature,5,Too spicy.
+2024-05-01 21:15:00,eabbbf63,Kitchen,food_quality,2,Too spicy.
+2024-05-01 21:18:00,264d9c89,Restroom,temperature,2,Clean environment.
+2024-05-01 21:21:00,aae64fc6,Dining Hall,cleaning,4,Loved it!
+2024-05-01 21:24:00,ff99e727,Restroom,cleaning,1,Needs improvement.
+2024-05-01 21:27:00,616618f9,Dining Hall,food_quality,3,Needs improvement.
+2024-05-01 21:30:00,82e2204d,Dining Hall,cleaning,2,AC is too cold.
+2024-05-01 21:33:00,ecabc53e,Dining Hall,cleaning,2,Could be better.
+2024-05-01 21:36:00,5df2a95e,Kitchen,food_quality,1,AC is too cold.
+2024-05-01 21:39:00,9ff2993e,Dining Hall,food_quality,1,Excellent service.
+2024-05-01 21:42:00,4e8218dd,Dining Hall,temperature,5,Not satisfied.
+2024-05-01 21:45:00,391fa3da,Restroom,temperature,3,Loved it!
+2024-05-01 21:48:00,c4510ac2,Restroom,temperature,1,Needs improvement.
+2024-05-01 21:51:00,937314c3,Restroom,cleaning,2,Too spicy.
+2024-05-01 21:54:00,19685ee7,Dining Hall,cleaning,2,Could be better.
+2024-05-01 21:57:00,c1fdcee9,Restroom,cleaning,4,AC is too cold.
+2024-05-01 22:00:00,dddac11d,Dining Hall,food_quality,1,Great food!
+2024-05-01 22:03:00,9e437b86,Dining Hall,temperature,5,AC is too cold.
+2024-05-01 22:06:00,304006c9,Kitchen,temperature,3,Loved it!
+2024-05-01 22:09:00,c744ff84,Restroom,temperature,5,Loved it!
+2024-05-01 22:12:00,b8d815be,Kitchen,food_quality,2,Clean environment.
+2024-05-01 22:15:00,00feb760,Kitchen,temperature,5,Could be better.
+2024-05-01 22:18:00,0b7ee31e,Restroom,cleaning,2,Loved it!
+2024-05-01 22:21:00,472288a3,Kitchen,temperature,2,Clean environment.
+2024-05-01 22:24:00,96a22d5f,Dining Hall,temperature,2,Great food!
+2024-05-01 22:27:00,92ee8a85,Kitchen,cleaning,2,Loved it!
+2024-05-01 22:30:00,7a3532ff,Dining Hall,temperature,2,Could be better.
+2024-05-01 22:33:00,515db3c1,Restroom,temperature,4,Excellent service.
+2024-05-01 22:36:00,7db940af,Kitchen,cleaning,5,Could be better.
+2024-05-01 22:39:00,0b1d96c9,Restroom,temperature,4,Could be better.
+2024-05-01 22:42:00,5b6a1c24,Restroom,cleaning,4,Great food!
+2024-05-01 22:45:00,392eb093,Dining Hall,temperature,1,Too spicy.
+2024-05-01 22:48:00,4fc35d61,Restroom,food_quality,1,Excellent service.
+2024-05-01 22:51:00,09149efa,Kitchen,cleaning,1,Great food!
+2024-05-01 22:54:00,887aae86,Dining Hall,temperature,3,Not satisfied.
+2024-05-01 22:57:00,1f4e58d1,Dining Hall,temperature,1,Loved it!
+2024-05-01 23:00:00,cf445334,Restroom,cleaning,5,Could be better.
+2024-05-01 23:03:00,b27aad53,Kitchen,cleaning,4,Loved it!
+2024-05-01 23:06:00,36e9564f,Kitchen,cleaning,5,Could be better.
+2024-05-01 23:09:00,049816ee,Dining Hall,food_quality,1,Not satisfied.
+2024-05-01 23:12:00,9a76f495,Restroom,cleaning,3,Needs improvement.
+2024-05-01 23:15:00,52812345,Restroom,food_quality,3,Excellent service.
+2024-05-01 23:18:00,502402ac,Restroom,temperature,4,Too spicy.
+2024-05-01 23:21:00,a220195d,Dining Hall,food_quality,5,Great food!
+2024-05-01 23:24:00,873c0a01,Dining Hall,cleaning,2,Loved it!
+2024-05-01 23:27:00,b41b7199,Dining Hall,temperature,5,Great food!
+2024-05-01 23:30:00,f7be9206,Dining Hall,food_quality,1,Clean environment.
+2024-05-01 23:33:00,926fc7b2,Restroom,cleaning,2,Not satisfied.
+2024-05-01 23:36:00,76c5eb88,Kitchen,temperature,3,Could be better.
+2024-05-01 23:39:00,f13dcc5d,Dining Hall,food_quality,4,AC is too cold.
+2024-05-01 23:42:00,8a27e0f1,Kitchen,cleaning,4,Great food!
+2024-05-01 23:45:00,a090ccbd,Kitchen,temperature,3,Could be better.
+2024-05-01 23:48:00,b94d19e0,Dining Hall,temperature,1,Loved it!
+2024-05-01 23:51:00,ba9115c6,Restroom,temperature,3,Not satisfied.
+2024-05-01 23:54:00,742d7b96,Restroom,cleaning,1,Too spicy.
+2024-05-01 23:57:00,439e1ca5,Restroom,food_quality,2,Not satisfied.
+2024-05-02 00:00:00,dcc0dc08,Kitchen,cleaning,3,AC is too cold.
+2024-05-02 00:03:00,15e353dd,Kitchen,cleaning,1,Great food!
+2024-05-02 00:06:00,c122888b,Restroom,cleaning,2,Loved it!
+2024-05-02 00:09:00,53588f49,Restroom,cleaning,3,Not satisfied.
+2024-05-02 00:12:00,00ec6629,Restroom,food_quality,4,Needs improvement.
+2024-05-02 00:15:00,e4162453,Dining Hall,temperature,3,Great food!
+2024-05-02 00:18:00,7b77c043,Dining Hall,cleaning,5,AC is too cold.
+2024-05-02 00:21:00,573b4156,Restroom,food_quality,3,AC is too cold.
+2024-05-02 00:24:00,d23e5257,Dining Hall,food_quality,5,Not satisfied.
+2024-05-02 00:27:00,9634edc2,Kitchen,temperature,2,Great food!
+2024-05-02 00:30:00,212653a2,Dining Hall,food_quality,3,Needs improvement.
+2024-05-02 00:33:00,87395580,Kitchen,cleaning,2,Loved it!
+2024-05-02 00:36:00,a8853103,Dining Hall,temperature,2,Excellent service.
+2024-05-02 00:39:00,b78708df,Kitchen,temperature,1,Great food!
+2024-05-02 00:42:00,0722cf26,Dining Hall,temperature,2,Could be better.
+2024-05-02 00:45:00,4818970d,Restroom,temperature,2,Not satisfied.
+2024-05-02 00:48:00,06b81153,Restroom,cleaning,3,Not satisfied.
+2024-05-02 00:51:00,7b206c0c,Dining Hall,cleaning,3,Great food!
+2024-05-02 00:54:00,1fcdbf67,Dining Hall,temperature,4,Loved it!
+2024-05-02 00:57:00,5f33bcf0,Dining Hall,food_quality,1,Needs improvement.
+2024-05-02 01:00:00,a9c63e26,Dining Hall,temperature,2,Loved it!
+2024-05-02 01:03:00,28e0faf1,Dining Hall,temperature,1,Not satisfied.
+2024-05-02 01:06:00,43d0dfc6,Restroom,food_quality,5,AC is too cold.
+2024-05-02 01:09:00,c1c77402,Restroom,cleaning,2,Could be better.
+2024-05-02 01:12:00,a3061852,Dining Hall,cleaning,1,Great food!
+2024-05-02 01:15:00,2f0b7e58,Kitchen,cleaning,4,Loved it!
+2024-05-02 01:18:00,59026210,Kitchen,food_quality,4,Excellent service.
+2024-05-02 01:21:00,425be49d,Kitchen,temperature,2,Loved it!
+2024-05-02 01:24:00,ad207d65,Restroom,cleaning,5,Great food!
+2024-05-02 01:27:00,46d189fa,Restroom,temperature,4,Excellent service.
+2024-05-02 01:30:00,17c4db4a,Restroom,food_quality,4,Could be better.
+2024-05-02 01:33:00,e2ec6afb,Dining Hall,food_quality,5,Loved it!
+2024-05-02 01:36:00,2e259eaf,Kitchen,cleaning,1,Too spicy.
+2024-05-02 01:39:00,8b0f4418,Dining Hall,temperature,4,AC is too cold.
+2024-05-02 01:42:00,95024bff,Dining Hall,temperature,3,Great food!
+2024-05-02 01:45:00,79414f72,Dining Hall,food_quality,4,Clean environment.
+2024-05-02 01:48:00,ab696c4a,Restroom,temperature,1,Could be better.
+2024-05-02 01:51:00,1ae8f61d,Kitchen,food_quality,1,Too spicy.
+2024-05-02 01:54:00,608c9a0c,Kitchen,temperature,2,Too spicy.
+2024-05-02 01:57:00,b4e36e35,Dining Hall,temperature,3,Excellent service.
+2024-05-02 02:00:00,f032b267,Restroom,food_quality,1,Too spicy.
+2024-05-02 02:03:00,36f46be5,Dining Hall,food_quality,5,Loved it!
+2024-05-02 02:06:00,cb7cd33e,Restroom,food_quality,3,AC is too cold.
+2024-05-02 02:09:00,8a4a858a,Dining Hall,food_quality,3,Could be better.
+2024-05-02 02:12:00,7bec77e4,Kitchen,food_quality,5,Excellent service.
+2024-05-02 02:15:00,dd38851c,Dining Hall,cleaning,4,Excellent service.
+2024-05-02 02:18:00,e1893068,Dining Hall,food_quality,5,Excellent service.
+2024-05-02 02:21:00,2d304678,Restroom,food_quality,5,AC is too cold.
+2024-05-02 02:24:00,96215b6c,Restroom,food_quality,4,AC is too cold.
+2024-05-02 02:27:00,c9d9e8b4,Kitchen,food_quality,4,Could be better.
+2024-05-02 02:30:00,9600d39a,Dining Hall,cleaning,4,Needs improvement.
+2024-05-02 02:33:00,d88b868b,Restroom,temperature,4,Great food!
+2024-05-02 02:36:00,64e49e19,Dining Hall,cleaning,4,Clean environment.
+2024-05-02 02:39:00,262dd889,Restroom,temperature,5,Loved it!
+2024-05-02 02:42:00,dfbaa2df,Kitchen,cleaning,2,Could be better.
+2024-05-02 02:45:00,fea3bf40,Dining Hall,food_quality,2,Clean environment.
+2024-05-02 02:48:00,1f8757c0,Dining Hall,food_quality,1,Could be better.
+2024-05-02 02:51:00,c5d51e8f,Kitchen,temperature,2,Could be better.
+2024-05-02 02:54:00,882bf474,Dining Hall,food_quality,2,Clean environment.
+2024-05-02 02:57:00,50e952d8,Dining Hall,cleaning,5,AC is too cold.
+2024-05-02 03:00:00,b13d1231,Kitchen,temperature,4,Too spicy.
+2024-05-02 03:03:00,791069ce,Kitchen,cleaning,4,Great food!
+2024-05-02 03:06:00,58a2f02b,Dining Hall,temperature,5,Excellent service.
+2024-05-02 03:09:00,68f2be1b,Dining Hall,temperature,2,Too spicy.
+2024-05-02 03:12:00,b09c2b54,Dining Hall,food_quality,5,Great food!
+2024-05-02 03:15:00,6b41d961,Restroom,food_quality,1,AC is too cold.
+2024-05-02 03:18:00,eeca85ad,Dining Hall,cleaning,4,Not satisfied.
+2024-05-02 03:21:00,b5e92205,Dining Hall,cleaning,3,Not satisfied.
+2024-05-02 03:24:00,873311b1,Kitchen,food_quality,1,Too spicy.
+2024-05-02 03:27:00,ea67e6c4,Restroom,cleaning,1,Too spicy.
+2024-05-02 03:30:00,848dd170,Restroom,temperature,5,Needs improvement.
+2024-05-02 03:33:00,bca946db,Dining Hall,cleaning,2,Excellent service.
+2024-05-02 03:36:00,e548a01d,Restroom,cleaning,4,Loved it!
+2024-05-02 03:39:00,8ac39648,Restroom,food_quality,3,Too spicy.
+2024-05-02 03:42:00,d7ff8b04,Dining Hall,cleaning,1,Loved it!
+2024-05-02 03:45:00,f47491b0,Dining Hall,temperature,3,Loved it!
+2024-05-02 03:48:00,1133678d,Restroom,cleaning,2,Loved it!
+2024-05-02 03:51:00,cb4952dc,Dining Hall,temperature,2,Great food!
+2024-05-02 03:54:00,3d04f8aa,Restroom,cleaning,3,Excellent service.
+2024-05-02 03:57:00,390f3950,Dining Hall,food_quality,4,Excellent service.
+2024-05-02 04:00:00,905d49e4,Kitchen,food_quality,2,Too spicy.
+2024-05-02 04:03:00,f3afac5e,Kitchen,temperature,3,Clean environment.
+2024-05-02 04:06:00,a6cf9e5e,Dining Hall,food_quality,1,Needs improvement.
+2024-05-02 04:09:00,e1d279d2,Dining Hall,cleaning,3,Clean environment.
+2024-05-02 04:12:00,a2518df8,Kitchen,cleaning,3,Not satisfied.
+2024-05-02 04:15:00,97c57b1c,Dining Hall,cleaning,5,Could be better.
+2024-05-02 04:18:00,f2912cd2,Kitchen,temperature,2,Needs improvement.
+2024-05-02 04:21:00,1a469582,Kitchen,temperature,4,Not satisfied.
+2024-05-02 04:24:00,c6eda5cb,Restroom,cleaning,4,AC is too cold.
+2024-05-02 04:27:00,822d7a05,Restroom,cleaning,5,Not satisfied.
+2024-05-02 04:30:00,50ea7782,Kitchen,food_quality,4,Needs improvement.
+2024-05-02 04:33:00,e47c4f3e,Kitchen,temperature,3,Excellent service.
+2024-05-02 04:36:00,915475c6,Restroom,cleaning,5,Too spicy.
+2024-05-02 04:39:00,d23ff48d,Dining Hall,food_quality,1,Could be better.
+2024-05-02 04:42:00,25684f2d,Restroom,temperature,2,Needs improvement.
+2024-05-02 04:45:00,da6026ba,Restroom,cleaning,2,Needs improvement.
+2024-05-02 04:48:00,3b1adad0,Kitchen,food_quality,2,Clean environment.
+2024-05-02 04:51:00,defdce27,Kitchen,temperature,3,Loved it!
+2024-05-02 04:54:00,69a07e91,Kitchen,temperature,1,Excellent service.
+2024-05-02 04:57:00,4980e9b1,Kitchen,temperature,5,Needs improvement.
+2024-05-02 05:00:00,0ce43639,Kitchen,cleaning,5,Needs improvement.
+2024-05-02 05:03:00,94ad8989,Restroom,cleaning,2,Loved it!
+2024-05-02 05:06:00,99e2f3a4,Restroom,cleaning,1,Too spicy.
+2024-05-02 05:09:00,d26221c5,Dining Hall,cleaning,1,Too spicy.
+2024-05-02 05:12:00,22c73286,Restroom,food_quality,1,Not satisfied.
+2024-05-02 05:15:00,9f41584f,Dining Hall,temperature,4,Great food!
+2024-05-02 05:18:00,0fc743dc,Dining Hall,cleaning,4,Could be better.
+2024-05-02 05:21:00,37da8dea,Dining Hall,food_quality,2,AC is too cold.
+2024-05-02 05:24:00,53825fa3,Kitchen,food_quality,1,Not satisfied.
+2024-05-02 05:27:00,788de834,Kitchen,food_quality,1,Needs improvement.
+2024-05-02 05:30:00,1c9d28bb,Restroom,cleaning,5,Great food!
+2024-05-02 05:33:00,91ce11e1,Dining Hall,food_quality,5,Great food!
+2024-05-02 05:36:00,8936133e,Dining Hall,temperature,2,Needs improvement.
+2024-05-02 05:39:00,8415f44d,Restroom,temperature,1,Great food!
+2024-05-02 05:42:00,73c07e22,Dining Hall,temperature,2,Great food!
+2024-05-02 05:45:00,585b0420,Kitchen,food_quality,5,Too spicy.
+2024-05-02 05:48:00,3572078e,Kitchen,cleaning,5,Not satisfied.
+2024-05-02 05:51:00,f1f1139a,Kitchen,temperature,4,Needs improvement.
+2024-05-02 05:54:00,4b0faad5,Restroom,food_quality,2,AC is too cold.
+2024-05-02 05:57:00,36243014,Restroom,cleaning,2,AC is too cold.
+2024-05-02 06:00:00,97871b47,Kitchen,temperature,1,Too spicy.
+2024-05-02 06:03:00,63ec913d,Restroom,food_quality,1,Could be better.
+2024-05-02 06:06:00,9f373a43,Kitchen,food_quality,4,Clean environment.
+2024-05-02 06:09:00,a5a3e7ba,Dining Hall,temperature,3,Too spicy.
+2024-05-02 06:12:00,fce5daa5,Dining Hall,temperature,3,Clean environment.
+2024-05-02 06:15:00,3e37158f,Kitchen,temperature,3,Could be better.
+2024-05-02 06:18:00,539ba559,Kitchen,cleaning,2,Not satisfied.
+2024-05-02 06:21:00,25f3d94f,Restroom,cleaning,2,AC is too cold.
+2024-05-02 06:24:00,eb52d1f3,Restroom,food_quality,5,Loved it!
+2024-05-02 06:27:00,8ac32e63,Restroom,food_quality,2,Excellent service.
+2024-05-02 06:30:00,648a28f3,Restroom,food_quality,2,Great food!
+2024-05-02 06:33:00,4452790c,Dining Hall,cleaning,2,AC is too cold.
+2024-05-02 06:36:00,54fb926c,Kitchen,food_quality,4,AC is too cold.
+2024-05-02 06:39:00,4cd700c7,Dining Hall,temperature,2,Clean environment.
+2024-05-02 06:42:00,dbac037c,Kitchen,cleaning,1,Too spicy.
+2024-05-02 06:45:00,edee2a82,Kitchen,cleaning,1,Needs improvement.
+2024-05-02 06:48:00,9b9adb0c,Dining Hall,cleaning,5,Clean environment.
+2024-05-02 06:51:00,a06a868a,Dining Hall,cleaning,4,AC is too cold.
+2024-05-02 06:54:00,f3c32043,Kitchen,food_quality,1,Clean environment.
+2024-05-02 06:57:00,9f00f26a,Dining Hall,cleaning,4,Loved it!
+2024-05-02 07:00:00,83affd35,Restroom,temperature,4,Loved it!
+2024-05-02 07:03:00,f356e2f5,Dining Hall,food_quality,5,Clean environment.
+2024-05-02 07:06:00,3c45e811,Restroom,food_quality,4,Clean environment.
+2024-05-02 07:09:00,4d198bea,Kitchen,food_quality,2,Needs improvement.
+2024-05-02 07:12:00,f1ddcb1d,Kitchen,temperature,4,Could be better.
+2024-05-02 07:15:00,27525695,Restroom,food_quality,5,AC is too cold.
+2024-05-02 07:18:00,fd68bf97,Dining Hall,cleaning,5,Too spicy.
+2024-05-02 07:21:00,21cb87e8,Dining Hall,cleaning,5,Clean environment.
+2024-05-02 07:24:00,b448990c,Dining Hall,temperature,1,Too spicy.
+2024-05-02 07:27:00,5af368e7,Kitchen,food_quality,2,Too spicy.
+2024-05-02 07:30:00,82e35e2a,Dining Hall,cleaning,1,Great food!
+2024-05-02 07:33:00,4744848b,Dining Hall,cleaning,3,Needs improvement.
+2024-05-02 07:36:00,3261bf92,Kitchen,temperature,2,Not satisfied.
+2024-05-02 07:39:00,e3fe0437,Kitchen,temperature,4,AC is too cold.
+2024-05-02 07:42:00,971cde34,Restroom,temperature,5,Great food!
+2024-05-02 07:45:00,fa6b2339,Restroom,cleaning,3,Not satisfied.
+2024-05-02 07:48:00,8e227283,Kitchen,food_quality,2,Clean environment.
+2024-05-02 07:51:00,cdb48b44,Dining Hall,cleaning,1,Loved it!
+2024-05-02 07:54:00,aba63f53,Restroom,temperature,5,Excellent service.
+2024-05-02 07:57:00,8beebd5b,Kitchen,food_quality,1,Clean environment.
+2024-05-02 08:00:00,6690feac,Dining Hall,cleaning,2,Not satisfied.
+2024-05-02 08:03:00,03559179,Restroom,temperature,2,Excellent service.
+2024-05-02 08:06:00,b1f19d55,Dining Hall,temperature,3,Needs improvement.
+2024-05-02 08:09:00,7949ba8d,Dining Hall,temperature,4,Could be better.
+2024-05-02 08:12:00,3b7bca71,Dining Hall,cleaning,1,Loved it!
+2024-05-02 08:15:00,11f92e1a,Kitchen,food_quality,3,Could be better.
+2024-05-02 08:18:00,a0951020,Dining Hall,cleaning,5,Excellent service.
+2024-05-02 08:21:00,995d1a5a,Dining Hall,cleaning,4,Great food!
+2024-05-02 08:24:00,5b6dda8a,Dining Hall,temperature,3,Not satisfied.
+2024-05-02 08:27:00,c5a2eb8b,Kitchen,food_quality,1,Loved it!
+2024-05-02 08:30:00,a4b3b8b2,Restroom,cleaning,2,Not satisfied.
+2024-05-02 08:33:00,58c37c65,Dining Hall,food_quality,5,Clean environment.
+2024-05-02 08:36:00,f08695b4,Restroom,temperature,1,Too spicy.
+2024-05-02 08:39:00,abe4ab67,Restroom,cleaning,4,Could be better.
+2024-05-02 08:42:00,c0c47c78,Restroom,food_quality,4,Excellent service.
+2024-05-02 08:45:00,c233514e,Dining Hall,cleaning,2,Too spicy.
+2024-05-02 08:48:00,42322f77,Restroom,cleaning,2,Excellent service.
+2024-05-02 08:51:00,f2e068ee,Kitchen,food_quality,5,AC is too cold.
+2024-05-02 08:54:00,3ceaf46e,Restroom,temperature,5,Clean environment.
+2024-05-02 08:57:00,5adeb517,Dining Hall,cleaning,2,Loved it!
+2024-05-02 09:00:00,d41a80ee,Dining Hall,food_quality,2,Could be better.
+2024-05-02 09:03:00,adf6f077,Dining Hall,food_quality,4,Not satisfied.
+2024-05-02 09:06:00,dc2e5405,Kitchen,temperature,2,Needs improvement.
+2024-05-02 09:09:00,f05f84d9,Dining Hall,temperature,3,Clean environment.
+2024-05-02 09:12:00,05ca0d05,Kitchen,food_quality,1,AC is too cold.
+2024-05-02 09:15:00,403da4a2,Kitchen,cleaning,2,Clean environment.
+2024-05-02 09:18:00,8804fef1,Dining Hall,food_quality,5,Needs improvement.
+2024-05-02 09:21:00,be32866b,Dining Hall,temperature,3,Could be better.
+2024-05-02 09:24:00,f16e5e44,Kitchen,temperature,5,Could be better.
+2024-05-02 09:27:00,cd83f321,Kitchen,food_quality,3,Clean environment.
+2024-05-02 09:30:00,669c125c,Kitchen,cleaning,2,AC is too cold.
+2024-05-02 09:33:00,950ec871,Kitchen,cleaning,1,Too spicy.
+2024-05-02 09:36:00,46dc76a8,Dining Hall,food_quality,5,Excellent service.
+2024-05-02 09:39:00,d1f408d0,Dining Hall,cleaning,3,Could be better.
+2024-05-02 09:42:00,7540671b,Restroom,food_quality,4,AC is too cold.
+2024-05-02 09:45:00,72eeeaba,Restroom,food_quality,2,Great food!
+2024-05-02 09:48:00,0319ac17,Dining Hall,food_quality,1,Loved it!
+2024-05-02 09:51:00,37733cad,Kitchen,cleaning,2,Not satisfied.
+2024-05-02 09:54:00,e9b16162,Kitchen,food_quality,4,AC is too cold.
+2024-05-02 09:57:00,9a25ff38,Restroom,cleaning,1,Not satisfied.
+2024-05-02 10:00:00,9c1360d0,Kitchen,food_quality,4,Could be better.
+2024-05-02 10:03:00,ea9f2239,Dining Hall,cleaning,2,Could be better.
+2024-05-02 10:06:00,ae5ee4f7,Kitchen,food_quality,3,AC is too cold.
+2024-05-02 10:09:00,bf2e0951,Restroom,temperature,2,Clean environment.
+2024-05-02 10:12:00,5670f090,Dining Hall,cleaning,2,Loved it!
+2024-05-02 10:15:00,d70cdea3,Dining Hall,cleaning,2,AC is too cold.
+2024-05-02 10:18:00,fc188114,Kitchen,cleaning,5,Clean environment.
+2024-05-02 10:21:00,e29f1224,Kitchen,temperature,4,Loved it!
+2024-05-02 10:24:00,0ce55cb7,Dining Hall,food_quality,4,Excellent service.
+2024-05-02 10:27:00,f1cc0c07,Kitchen,temperature,4,Needs improvement.
+2024-05-02 10:30:00,2db1f7f8,Restroom,cleaning,5,AC is too cold.
+2024-05-02 10:33:00,55b7effe,Kitchen,food_quality,3,Clean environment.
+2024-05-02 10:36:00,de919599,Dining Hall,food_quality,2,Too spicy.
+2024-05-02 10:39:00,a8ef6dfb,Kitchen,cleaning,3,Too spicy.
+2024-05-02 10:42:00,5577e503,Restroom,cleaning,5,Great food!
+2024-05-02 10:45:00,a0a49f11,Kitchen,cleaning,4,Great food!
+2024-05-02 10:48:00,f3fb6b1a,Dining Hall,temperature,2,Too spicy.
+2024-05-02 10:51:00,c75f40d2,Kitchen,food_quality,1,Great food!
+2024-05-02 10:54:00,e0c7ab3e,Kitchen,cleaning,1,Too spicy.
+2024-05-02 10:57:00,10de1449,Restroom,temperature,3,Loved it!
+2024-05-02 11:00:00,014df8ef,Restroom,food_quality,4,Needs improvement.
+2024-05-02 11:03:00,bd5569dc,Dining Hall,temperature,1,Clean environment.
+2024-05-02 11:06:00,895eb3f5,Restroom,cleaning,3,Great food!
+2024-05-02 11:09:00,f3463466,Kitchen,cleaning,5,Great food!
+2024-05-02 11:12:00,66216547,Restroom,food_quality,3,Loved it!
+2024-05-02 11:15:00,446b17b0,Kitchen,temperature,3,AC is too cold.
+2024-05-02 11:18:00,4a2763a0,Dining Hall,temperature,3,Needs improvement.
+2024-05-02 11:21:00,6faa2952,Restroom,temperature,2,Could be better.
+2024-05-02 11:24:00,ff9e3ade,Restroom,food_quality,3,Clean environment.
+2024-05-02 11:27:00,3bcc2e5b,Restroom,cleaning,3,Excellent service.
+2024-05-02 11:30:00,65cdfa01,Kitchen,temperature,2,Great food!
+2024-05-02 11:33:00,6e5a7a4d,Dining Hall,temperature,2,Too spicy.
+2024-05-02 11:36:00,fa9527a1,Restroom,temperature,5,Could be better.
+2024-05-02 11:39:00,c1ba88cc,Kitchen,temperature,4,AC is too cold.
+2024-05-02 11:42:00,d959cfb4,Dining Hall,temperature,1,Needs improvement.
+2024-05-02 11:45:00,d8118177,Kitchen,temperature,1,Excellent service.
+2024-05-02 11:48:00,62725602,Restroom,food_quality,3,Clean environment.
+2024-05-02 11:51:00,b2ba33b1,Restroom,temperature,5,AC is too cold.
+2024-05-02 11:54:00,cafee9df,Restroom,temperature,3,Too spicy.
+2024-05-02 11:57:00,4cf7b6f2,Kitchen,food_quality,1,AC is too cold.
+2024-05-02 12:00:00,0fa203a3,Dining Hall,temperature,2,Great food!
+2024-05-02 12:03:00,ab67629e,Kitchen,food_quality,4,Clean environment.
+2024-05-02 12:06:00,432cd726,Dining Hall,cleaning,5,Could be better.
+2024-05-02 12:09:00,8fbf7d57,Dining Hall,food_quality,2,Excellent service.
+2024-05-02 12:12:00,f32e208b,Kitchen,cleaning,4,Great food!
+2024-05-02 12:15:00,b0212426,Restroom,temperature,5,Not satisfied.
+2024-05-02 12:18:00,4ba1dc34,Dining Hall,temperature,5,Clean environment.
+2024-05-02 12:21:00,73f6b8b1,Dining Hall,cleaning,1,Needs improvement.
+2024-05-02 12:24:00,acb1519c,Dining Hall,cleaning,2,Loved it!
+2024-05-02 12:27:00,e2d7d2f2,Restroom,cleaning,5,Loved it!
+2024-05-02 12:30:00,5fb7b2a1,Restroom,cleaning,5,AC is too cold.
+2024-05-02 12:33:00,583b1037,Restroom,cleaning,4,Excellent service.
+2024-05-02 12:36:00,74e667f4,Dining Hall,temperature,1,Great food!
+2024-05-02 12:39:00,914892c3,Kitchen,food_quality,3,Great food!
+2024-05-02 12:42:00,e036827b,Kitchen,temperature,1,Could be better.
+2024-05-02 12:45:00,a809b2f0,Restroom,cleaning,3,Excellent service.
+2024-05-02 12:48:00,e7bedf9c,Dining Hall,temperature,2,Needs improvement.
+2024-05-02 12:51:00,4c71337d,Kitchen,food_quality,2,Could be better.
+2024-05-02 12:54:00,bdcefa67,Restroom,food_quality,5,Loved it!
+2024-05-02 12:57:00,ef14a555,Dining Hall,food_quality,2,Clean environment.
+2024-05-02 13:00:00,605b6840,Kitchen,temperature,5,Too spicy.
+2024-05-02 13:03:00,61ec4588,Restroom,temperature,1,Needs improvement.
+2024-05-02 13:06:00,5f0aa4c7,Restroom,food_quality,2,Needs improvement.
+2024-05-02 13:09:00,d6bf1e3d,Restroom,temperature,1,Excellent service.
+2024-05-02 13:12:00,04d3ed42,Dining Hall,cleaning,1,Loved it!
+2024-05-02 13:15:00,54451cdd,Dining Hall,cleaning,2,Great food!
+2024-05-02 13:18:00,1588f88c,Dining Hall,food_quality,1,Loved it!
+2024-05-02 13:21:00,ece6c859,Restroom,food_quality,2,Loved it!
+2024-05-02 13:24:00,0667c879,Kitchen,temperature,2,AC is too cold.
+2024-05-02 13:27:00,45bfd6d6,Kitchen,food_quality,2,Loved it!
+2024-05-02 13:30:00,f54cdbe4,Dining Hall,food_quality,3,AC is too cold.
+2024-05-02 13:33:00,f7244c5f,Kitchen,temperature,1,Loved it!
+2024-05-02 13:36:00,edf2e42a,Restroom,food_quality,4,Needs improvement.
+2024-05-02 13:39:00,cc231be7,Kitchen,temperature,2,Needs improvement.
+2024-05-02 13:42:00,2d584951,Kitchen,cleaning,1,Not satisfied.
+2024-05-02 13:45:00,26915cd9,Restroom,temperature,5,Loved it!
+2024-05-02 13:48:00,e13e0407,Restroom,temperature,2,Loved it!
+2024-05-02 13:51:00,41ef36e0,Restroom,temperature,2,Clean environment.
+2024-05-02 13:54:00,80641e89,Restroom,food_quality,4,Loved it!
+2024-05-02 13:57:00,449f904d,Kitchen,cleaning,3,Needs improvement.
+2024-05-02 14:00:00,7f8ba024,Restroom,cleaning,3,Not satisfied.
+2024-05-02 14:03:00,3c2bf744,Kitchen,cleaning,2,Too spicy.
+2024-05-02 14:06:00,f42c22bd,Dining Hall,cleaning,1,Not satisfied.
+2024-05-02 14:09:00,a12c1f06,Dining Hall,cleaning,5,Needs improvement.
+2024-05-02 14:12:00,d2ce1032,Kitchen,food_quality,5,Not satisfied.
+2024-05-02 14:15:00,36f38508,Kitchen,cleaning,1,AC is too cold.
+2024-05-02 14:18:00,64ab226d,Dining Hall,food_quality,2,Needs improvement.
+2024-05-02 14:21:00,a874d4c9,Kitchen,food_quality,5,Clean environment.
+2024-05-02 14:24:00,9356515f,Restroom,food_quality,3,Too spicy.
+2024-05-02 14:27:00,bc90e609,Kitchen,food_quality,1,Great food!
+2024-05-02 14:30:00,d280f6fa,Restroom,food_quality,4,Too spicy.
+2024-05-02 14:33:00,1fc97c45,Dining Hall,food_quality,2,Great food!
+2024-05-02 14:36:00,c43735be,Dining Hall,temperature,1,Excellent service.
+2024-05-02 14:39:00,1535114f,Dining Hall,cleaning,5,AC is too cold.
+2024-05-02 14:42:00,b43ae43d,Restroom,cleaning,2,Clean environment.
+2024-05-02 14:45:00,0e3a9df2,Dining Hall,temperature,3,Could be better.
+2024-05-02 14:48:00,da9dcf61,Restroom,temperature,2,Loved it!
+2024-05-02 14:51:00,40a3023f,Restroom,temperature,2,Not satisfied.
+2024-05-02 14:54:00,c96789b3,Dining Hall,cleaning,3,Too spicy.
+2024-05-02 14:57:00,aad07e35,Kitchen,cleaning,3,Clean environment.
+2024-05-02 15:00:00,60dabc1a,Kitchen,temperature,2,Could be better.
+2024-05-02 15:03:00,360ee419,Dining Hall,cleaning,3,Too spicy.
+2024-05-02 15:06:00,cc3aed78,Kitchen,food_quality,1,Excellent service.
+2024-05-02 15:09:00,49e30374,Restroom,food_quality,3,Clean environment.
+2024-05-02 15:12:00,0adc4cbd,Kitchen,food_quality,3,Could be better.
+2024-05-02 15:15:00,4e7e4719,Restroom,temperature,2,Could be better.
+2024-05-02 15:18:00,051ad000,Kitchen,cleaning,1,Great food!
+2024-05-02 15:21:00,769acfbd,Kitchen,food_quality,4,Needs improvement.
+2024-05-02 15:24:00,e6facbb7,Kitchen,temperature,4,Too spicy.
+2024-05-02 15:27:00,87dfc0ca,Kitchen,temperature,5,Clean environment.
+2024-05-02 15:30:00,eeca0bee,Restroom,food_quality,3,Could be better.
+2024-05-02 15:33:00,a6ccf238,Dining Hall,temperature,3,Not satisfied.
+2024-05-02 15:36:00,287aa337,Restroom,cleaning,1,Clean environment.
+2024-05-02 15:39:00,616902c7,Restroom,cleaning,4,AC is too cold.
+2024-05-02 15:42:00,911ba8c2,Restroom,food_quality,5,Clean environment.
+2024-05-02 15:45:00,d5cf8f6a,Kitchen,temperature,1,Clean environment.
+2024-05-02 15:48:00,222ba8a1,Kitchen,temperature,3,Excellent service.
+2024-05-02 15:51:00,06969ac9,Dining Hall,food_quality,4,Needs improvement.
+2024-05-02 15:54:00,6d44c755,Restroom,cleaning,5,Loved it!
+2024-05-02 15:57:00,ea572e36,Kitchen,temperature,2,Excellent service.
+2024-05-02 16:00:00,d8b23c82,Kitchen,temperature,4,Needs improvement.
+2024-05-02 16:03:00,a424a8c5,Restroom,temperature,5,AC is too cold.
+2024-05-02 16:06:00,98eee653,Kitchen,cleaning,1,Could be better.
+2024-05-02 16:09:00,fcf2df67,Dining Hall,cleaning,2,Too spicy.
+2024-05-02 16:12:00,384334be,Restroom,food_quality,5,Not satisfied.
+2024-05-02 16:15:00,fd0a90fe,Dining Hall,temperature,5,Needs improvement.
+2024-05-02 16:18:00,a57e8625,Kitchen,cleaning,3,Loved it!
+2024-05-02 16:21:00,1de9dfb3,Dining Hall,cleaning,4,Could be better.
+2024-05-02 16:24:00,e6d3fc54,Restroom,temperature,3,Excellent service.
+2024-05-02 16:27:00,5a6a7b44,Restroom,temperature,2,Could be better.
+2024-05-02 16:30:00,c084f575,Kitchen,temperature,5,Too spicy.
+2024-05-02 16:33:00,dee13ee5,Kitchen,cleaning,3,Needs improvement.
+2024-05-02 16:36:00,4763f1d3,Restroom,temperature,4,Could be better.
+2024-05-02 16:39:00,510ac716,Kitchen,food_quality,2,Needs improvement.
+2024-05-02 16:42:00,a40f3bd2,Restroom,temperature,1,Excellent service.
+2024-05-02 16:45:00,406d778d,Restroom,food_quality,3,Clean environment.
+2024-05-02 16:48:00,5cac2b30,Dining Hall,temperature,2,Clean environment.
+2024-05-02 16:51:00,c6854cc1,Dining Hall,temperature,1,Great food!
+2024-05-02 16:54:00,79032789,Dining Hall,temperature,3,Clean environment.
+2024-05-02 16:57:00,353350c1,Restroom,temperature,2,Not satisfied.
+2024-05-02 17:00:00,a195390e,Dining Hall,food_quality,2,Could be better.
+2024-05-02 17:03:00,ba6a90e5,Dining Hall,cleaning,3,AC is too cold.
+2024-05-02 17:06:00,aceef03f,Kitchen,food_quality,2,Could be better.
+2024-05-02 17:09:00,48413628,Dining Hall,food_quality,5,Not satisfied.
+2024-05-02 17:12:00,8e758beb,Kitchen,food_quality,3,Not satisfied.
+2024-05-02 17:15:00,8c10aaa9,Kitchen,food_quality,2,Excellent service.
+2024-05-02 17:18:00,5a126470,Kitchen,temperature,1,Too spicy.
+2024-05-02 17:21:00,92d870a9,Kitchen,cleaning,1,Great food!
+2024-05-02 17:24:00,4de6e34a,Restroom,cleaning,5,Great food!
+2024-05-02 17:27:00,cdb236bb,Restroom,cleaning,3,Too spicy.
+2024-05-02 17:30:00,9b777853,Restroom,food_quality,2,Could be better.
+2024-05-02 17:33:00,035a9f7c,Kitchen,food_quality,2,Loved it!
+2024-05-02 17:36:00,6c80101a,Restroom,cleaning,1,Clean environment.
+2024-05-02 17:39:00,d82c33a5,Restroom,cleaning,5,Not satisfied.
+2024-05-02 17:42:00,926cd45b,Dining Hall,food_quality,1,Clean environment.
+2024-05-02 17:45:00,6e3b00d5,Restroom,cleaning,1,AC is too cold.
+2024-05-02 17:48:00,9917c193,Restroom,cleaning,5,Great food!
+2024-05-02 17:51:00,95a88a13,Dining Hall,food_quality,3,Loved it!
+2024-05-02 17:54:00,192f8ac3,Restroom,food_quality,2,Clean environment.
+2024-05-02 17:57:00,1d1782a3,Kitchen,temperature,3,Excellent service.
+2024-05-02 18:00:00,ffb8dcc2,Restroom,food_quality,4,Not satisfied.
+2024-05-02 18:03:00,b2272919,Dining Hall,food_quality,4,AC is too cold.
+2024-05-02 18:06:00,4841e11d,Dining Hall,cleaning,4,Great food!
+2024-05-02 18:09:00,37616138,Kitchen,cleaning,5,Not satisfied.
+2024-05-02 18:12:00,0e43c5b0,Restroom,cleaning,1,Loved it!
+2024-05-02 18:15:00,5a02e1d6,Dining Hall,food_quality,3,Great food!
+2024-05-02 18:18:00,490771a1,Dining Hall,food_quality,2,Could be better.
+2024-05-02 18:21:00,52aa505a,Restroom,food_quality,4,Clean environment.
+2024-05-02 18:24:00,a8255658,Kitchen,temperature,3,Too spicy.
+2024-05-02 18:27:00,efd1170f,Restroom,food_quality,4,Needs improvement.
+2024-05-02 18:30:00,c54d2b89,Kitchen,food_quality,4,Needs improvement.
+2024-05-02 18:33:00,58e03f4a,Kitchen,food_quality,2,Excellent service.
+2024-05-02 18:36:00,0b7ce1e5,Dining Hall,cleaning,5,AC is too cold.
+2024-05-02 18:39:00,904f7fb0,Restroom,temperature,1,Clean environment.
+2024-05-02 18:42:00,0f92f6c3,Kitchen,cleaning,5,Excellent service.
+2024-05-02 18:45:00,2720dadc,Dining Hall,temperature,3,Not satisfied.
+2024-05-02 18:48:00,641e1d5b,Kitchen,cleaning,5,Excellent service.
+2024-05-02 18:51:00,4dd81927,Dining Hall,temperature,3,Could be better.
+2024-05-02 18:54:00,3b917123,Kitchen,temperature,3,Needs improvement.
+2024-05-02 18:57:00,dc81d332,Dining Hall,cleaning,1,Needs improvement.
+2024-05-02 19:00:00,bae0e428,Kitchen,cleaning,2,Great food!
+2024-05-02 19:03:00,c4ea9e3b,Dining Hall,food_quality,1,Excellent service.
+2024-05-02 19:06:00,62616320,Restroom,temperature,5,AC is too cold.
+2024-05-02 19:09:00,9b5d00e0,Dining Hall,food_quality,3,Excellent service.
+2024-05-02 19:12:00,50aa78a3,Kitchen,food_quality,4,Not satisfied.
+2024-05-02 19:15:00,341e8379,Restroom,cleaning,4,AC is too cold.
+2024-05-02 19:18:00,37fbfe21,Kitchen,cleaning,3,Clean environment.
+2024-05-02 19:21:00,d63a4fb5,Kitchen,food_quality,1,AC is too cold.
+2024-05-02 19:24:00,23a3c270,Dining Hall,food_quality,2,Not satisfied.
+2024-05-02 19:27:00,43be873e,Kitchen,temperature,1,Not satisfied.
+2024-05-02 19:30:00,5be3b426,Dining Hall,food_quality,3,Loved it!
+2024-05-02 19:33:00,5920d03a,Kitchen,temperature,3,Could be better.
+2024-05-02 19:36:00,c0b72b84,Kitchen,food_quality,2,Great food!
+2024-05-02 19:39:00,d86e9b76,Dining Hall,temperature,5,Great food!
+2024-05-02 19:42:00,45d1ba4e,Restroom,temperature,5,AC is too cold.
+2024-05-02 19:45:00,982851af,Dining Hall,cleaning,2,Not satisfied.
+2024-05-02 19:48:00,459e6ca7,Restroom,temperature,5,AC is too cold.
+2024-05-02 19:51:00,035676ab,Dining Hall,temperature,4,Clean environment.
+2024-05-02 19:54:00,cd74e88d,Dining Hall,food_quality,5,Needs improvement.
+2024-05-02 19:57:00,994e8260,Dining Hall,food_quality,5,Clean environment.
+2024-05-02 20:00:00,037ade2b,Kitchen,cleaning,5,Great food!
+2024-05-02 20:03:00,1d480a17,Restroom,temperature,4,AC is too cold.
+2024-05-02 20:06:00,fe0bbbd0,Dining Hall,food_quality,5,Could be better.
+2024-05-02 20:09:00,d66c36ed,Restroom,temperature,4,Loved it!
+2024-05-02 20:12:00,8df9e35c,Restroom,temperature,2,Clean environment.
+2024-05-02 20:15:00,57980acb,Restroom,temperature,1,Could be better.
+2024-05-02 20:18:00,fdf39f23,Kitchen,temperature,2,Loved it!
+2024-05-02 20:21:00,57be3a14,Kitchen,cleaning,1,Needs improvement.
+2024-05-02 20:24:00,415e1067,Dining Hall,food_quality,2,Not satisfied.
+2024-05-02 20:27:00,d06f92e2,Restroom,temperature,1,Not satisfied.
+2024-05-02 20:30:00,eafd2b22,Restroom,temperature,1,Needs improvement.
+2024-05-02 20:33:00,76e6fe81,Dining Hall,cleaning,3,Too spicy.
+2024-05-02 20:36:00,391096ac,Kitchen,cleaning,1,Great food!
+2024-05-02 20:39:00,fd040fb0,Kitchen,temperature,1,Not satisfied.
+2024-05-02 20:42:00,65487498,Kitchen,food_quality,3,Needs improvement.
+2024-05-02 20:45:00,54651d32,Kitchen,cleaning,5,Clean environment.
+2024-05-02 20:48:00,cf0bbeda,Dining Hall,temperature,5,Great food!
+2024-05-02 20:51:00,0493f894,Kitchen,food_quality,3,Needs improvement.
+2024-05-02 20:54:00,be557d9a,Restroom,cleaning,4,Clean environment.
+2024-05-02 20:57:00,f71c3d51,Kitchen,food_quality,1,Could be better.
+2024-05-02 21:00:00,2dcef7fb,Kitchen,temperature,1,Loved it!
+2024-05-02 21:03:00,9b4d3e1b,Kitchen,food_quality,3,Loved it!
+2024-05-02 21:06:00,5803020a,Dining Hall,food_quality,3,Could be better.
+2024-05-02 21:09:00,53f4caf7,Dining Hall,temperature,4,Clean environment.
+2024-05-02 21:12:00,a455d5fa,Kitchen,cleaning,5,Great food!
+2024-05-02 21:15:00,cfe047f9,Restroom,food_quality,2,Could be better.
+2024-05-02 21:18:00,14822aef,Restroom,food_quality,5,AC is too cold.
+2024-05-02 21:21:00,afb10840,Dining Hall,cleaning,1,Could be better.
+2024-05-02 21:24:00,7544a331,Restroom,food_quality,3,Too spicy.
+2024-05-02 21:27:00,1e3d1d0b,Dining Hall,cleaning,4,AC is too cold.
+2024-05-02 21:30:00,601e9f07,Restroom,temperature,5,Could be better.
+2024-05-02 21:33:00,da9d08ac,Dining Hall,temperature,4,AC is too cold.
+2024-05-02 21:36:00,d905b773,Dining Hall,cleaning,5,Clean environment.
+2024-05-02 21:39:00,039604dd,Restroom,cleaning,1,Great food!
+2024-05-02 21:42:00,aad93aaf,Restroom,temperature,2,Excellent service.
+2024-05-02 21:45:00,fadf278e,Kitchen,cleaning,4,Loved it!
+2024-05-02 21:48:00,2ca89b78,Dining Hall,food_quality,4,Needs improvement.
+2024-05-02 21:51:00,1da01395,Restroom,cleaning,2,Not satisfied.
+2024-05-02 21:54:00,bddcf1d8,Kitchen,temperature,4,Excellent service.
+2024-05-02 21:57:00,418d8537,Dining Hall,cleaning,4,Great food!
+2024-05-02 22:00:00,3864ba80,Kitchen,cleaning,5,Not satisfied.
+2024-05-02 22:03:00,d6e09955,Kitchen,food_quality,5,Great food!
+2024-05-02 22:06:00,de424c25,Kitchen,cleaning,2,Loved it!
+2024-05-02 22:09:00,df8abaa3,Restroom,cleaning,1,Great food!
+2024-05-02 22:12:00,b7ad4a00,Restroom,temperature,4,Could be better.
+2024-05-02 22:15:00,ef843c00,Kitchen,cleaning,1,Too spicy.
+2024-05-02 22:18:00,1ea896fe,Restroom,food_quality,2,Great food!
+2024-05-02 22:21:00,9e2edb37,Kitchen,food_quality,2,Needs improvement.
+2024-05-02 22:24:00,3c245b2e,Kitchen,temperature,5,Needs improvement.
+2024-05-02 22:27:00,f3e88bdb,Dining Hall,cleaning,4,Loved it!
+2024-05-02 22:30:00,dbbec1bd,Restroom,food_quality,3,Not satisfied.
+2024-05-02 22:33:00,9c52bbc0,Dining Hall,food_quality,2,Needs improvement.
+2024-05-02 22:36:00,a2343d6f,Restroom,food_quality,4,Too spicy.
+2024-05-02 22:39:00,2f772c4a,Kitchen,cleaning,1,Clean environment.
+2024-05-02 22:42:00,39e5f21a,Restroom,temperature,5,Needs improvement.
+2024-05-02 22:45:00,7219b8b7,Dining Hall,cleaning,1,Not satisfied.
+2024-05-02 22:48:00,9df26eb7,Dining Hall,temperature,2,AC is too cold.
+2024-05-02 22:51:00,71dafcec,Restroom,temperature,2,Too spicy.
+2024-05-02 22:54:00,9235d87e,Restroom,cleaning,1,Great food!
+2024-05-02 22:57:00,fa13befe,Dining Hall,cleaning,2,Loved it!
+2024-05-02 23:00:00,6f9af8dc,Restroom,temperature,4,Clean environment.
+2024-05-02 23:03:00,86f8fe12,Dining Hall,cleaning,2,Needs improvement.
+2024-05-02 23:06:00,d0ffde78,Dining Hall,temperature,5,Not satisfied.
+2024-05-02 23:09:00,8894bd92,Restroom,food_quality,4,Excellent service.
+2024-05-02 23:12:00,a67bebf4,Restroom,food_quality,3,Not satisfied.
+2024-05-02 23:15:00,f2bf1ffd,Restroom,cleaning,2,Needs improvement.
+2024-05-02 23:18:00,d2fd0025,Dining Hall,cleaning,2,Clean environment.
+2024-05-02 23:21:00,59959a84,Kitchen,cleaning,5,Needs improvement.
+2024-05-02 23:24:00,99de1357,Dining Hall,cleaning,5,AC is too cold.
+2024-05-02 23:27:00,90a53e5d,Dining Hall,temperature,1,AC is too cold.
+2024-05-02 23:30:00,86f49c18,Kitchen,cleaning,1,Excellent service.
+2024-05-02 23:33:00,b46a9b9b,Kitchen,temperature,1,Loved it!
+2024-05-02 23:36:00,349058be,Restroom,cleaning,5,Excellent service.
+2024-05-02 23:39:00,63b886bf,Dining Hall,cleaning,1,Excellent service.
+2024-05-02 23:42:00,019de8f6,Restroom,temperature,1,Great food!
+2024-05-02 23:45:00,c970f9cd,Restroom,temperature,3,Clean environment.
+2024-05-02 23:48:00,ce5baa4b,Dining Hall,temperature,1,AC is too cold.
+2024-05-02 23:51:00,2832160b,Dining Hall,food_quality,2,Clean environment.
+2024-05-02 23:54:00,2d51f8c2,Restroom,temperature,5,Loved it!
+2024-05-02 23:57:00,1db5c293,Restroom,cleaning,4,Not satisfied.
+2024-05-03 00:00:00,53aef5c5,Kitchen,cleaning,3,Not satisfied.
+2024-05-03 00:03:00,3cdded50,Kitchen,food_quality,5,AC is too cold.
+2024-05-03 00:06:00,fe4b23db,Dining Hall,cleaning,5,Loved it!
+2024-05-03 00:09:00,c8417d16,Dining Hall,cleaning,2,Needs improvement.
+2024-05-03 00:12:00,63d89149,Kitchen,cleaning,1,Could be better.
+2024-05-03 00:15:00,b152eaab,Restroom,food_quality,2,Needs improvement.
+2024-05-03 00:18:00,66e5a087,Restroom,temperature,1,Not satisfied.
+2024-05-03 00:21:00,09844642,Restroom,cleaning,1,AC is too cold.
+2024-05-03 00:24:00,cbe32e2a,Restroom,food_quality,5,Great food!
+2024-05-03 00:27:00,16465d4d,Kitchen,temperature,1,AC is too cold.
+2024-05-03 00:30:00,8940556a,Kitchen,temperature,3,Loved it!
+2024-05-03 00:33:00,d48ff484,Dining Hall,temperature,3,Not satisfied.
+2024-05-03 00:36:00,3c195d8c,Dining Hall,cleaning,3,Excellent service.
+2024-05-03 00:39:00,af04f610,Dining Hall,temperature,5,Too spicy.
+2024-05-03 00:42:00,dc5aa153,Dining Hall,cleaning,2,Loved it!
+2024-05-03 00:45:00,1488b5d3,Restroom,food_quality,4,Could be better.
+2024-05-03 00:48:00,0e7b0709,Dining Hall,food_quality,1,Clean environment.
+2024-05-03 00:51:00,e5950866,Kitchen,temperature,4,AC is too cold.
+2024-05-03 00:54:00,9875f9b0,Dining Hall,temperature,2,Excellent service.
+2024-05-03 00:57:00,70c18705,Restroom,cleaning,2,AC is too cold.
+2024-05-03 01:00:00,dd8fef98,Kitchen,food_quality,5,Needs improvement.
+2024-05-03 01:03:00,49fe45a1,Restroom,cleaning,3,Not satisfied.
+2024-05-03 01:06:00,896be162,Dining Hall,food_quality,3,Too spicy.
+2024-05-03 01:09:00,7c97245e,Restroom,cleaning,2,Excellent service.
+2024-05-03 01:12:00,9d4ded11,Dining Hall,food_quality,5,Could be better.
+2024-05-03 01:15:00,8d6c5c78,Dining Hall,cleaning,5,Great food!
+2024-05-03 01:18:00,f5644d5d,Kitchen,cleaning,1,Needs improvement.
+2024-05-03 01:21:00,e86b378f,Dining Hall,temperature,3,Clean environment.
+2024-05-03 01:24:00,8db18834,Restroom,cleaning,2,Could be better.
+2024-05-03 01:27:00,84f5e8e5,Dining Hall,food_quality,4,Could be better.
+2024-05-03 01:30:00,75f2e037,Kitchen,food_quality,3,Loved it!
+2024-05-03 01:33:00,51308d6c,Restroom,cleaning,1,Too spicy.
+2024-05-03 01:36:00,8cd1e112,Restroom,cleaning,5,Excellent service.
+2024-05-03 01:39:00,1b4e4f69,Kitchen,cleaning,2,Could be better.
+2024-05-03 01:42:00,aaec53fa,Kitchen,temperature,3,Great food!
+2024-05-03 01:45:00,35686797,Kitchen,temperature,4,Too spicy.
+2024-05-03 01:48:00,7639520d,Dining Hall,cleaning,1,AC is too cold.
+2024-05-03 01:51:00,18df2b18,Restroom,cleaning,1,Excellent service.
+2024-05-03 01:54:00,05667a7d,Kitchen,temperature,3,Too spicy.
+2024-05-03 01:57:00,2ca4a2ab,Dining Hall,food_quality,4,AC is too cold.

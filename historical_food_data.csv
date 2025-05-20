@@ -1,0 +1,901 @@
+date,day_of_week,dish_name,quantity_prepared,quantity_consumed,occupancy,event_flag
+2024-01-01,Monday,Paneer Butter Masala,131,124,302,0
+2024-01-01,Monday,Rajma Chawal,103,101,302,1
+2024-01-01,Monday,Chole Bhature,109,104,201,1
+2024-01-01,Monday,Dal Makhani,100,100,387,0
+2024-01-01,Monday,Aloo Paratha,128,119,221,1
+2024-01-02,Tuesday,Paneer Butter Masala,94,92,387,0
+2024-01-02,Tuesday,Rajma Chawal,82,78,263,0
+2024-01-02,Tuesday,Chole Bhature,118,117,220,0
+2024-01-02,Tuesday,Dal Makhani,93,92,259,0
+2024-01-02,Tuesday,Aloo Paratha,132,131,289,0
+2024-01-03,Wednesday,Paneer Butter Masala,139,133,310,0
+2024-01-03,Wednesday,Rajma Chawal,126,124,207,0
+2024-01-03,Wednesday,Chole Bhature,129,122,363,0
+2024-01-03,Wednesday,Dal Makhani,133,124,333,0
+2024-01-03,Wednesday,Aloo Paratha,97,88,390,0
+2024-01-04,Thursday,Paneer Butter Masala,93,86,389,0
+2024-01-04,Thursday,Rajma Chawal,119,115,389,0
+2024-01-04,Thursday,Chole Bhature,132,125,281,0
+2024-01-04,Thursday,Dal Makhani,120,120,387,1
+2024-01-04,Thursday,Aloo Paratha,80,73,208,1
+2024-01-05,Friday,Paneer Butter Masala,87,85,338,0
+2024-01-05,Friday,Rajma Chawal,84,75,322,0
+2024-01-05,Friday,Chole Bhature,107,101,240,0
+2024-01-05,Friday,Dal Makhani,113,113,211,1
+2024-01-05,Friday,Aloo Paratha,141,134,350,0
+2024-01-06,Saturday,Paneer Butter Masala,114,114,371,0
+2024-01-06,Saturday,Rajma Chawal,82,82,374,0
+2024-01-06,Saturday,Chole Bhature,106,98,341,0
+2024-01-06,Saturday,Dal Makhani,121,119,289,1
+2024-01-06,Saturday,Aloo Paratha,83,79,251,0
+2024-01-07,Sunday,Paneer Butter Masala,122,119,342,0
+2024-01-07,Sunday,Rajma Chawal,138,136,270,0
+2024-01-07,Sunday,Chole Bhature,121,113,265,0
+2024-01-07,Sunday,Dal Makhani,107,104,227,0
+2024-01-07,Sunday,Aloo Paratha,141,141,274,0
+2024-01-08,Monday,Paneer Butter Masala,141,133,226,0
+2024-01-08,Monday,Rajma Chawal,149,142,202,0
+2024-01-08,Monday,Chole Bhature,116,116,261,0
+2024-01-08,Monday,Dal Makhani,103,98,371,0
+2024-01-08,Monday,Aloo Paratha,141,141,379,0
+2024-01-09,Tuesday,Paneer Butter Masala,118,117,211,0
+2024-01-09,Tuesday,Rajma Chawal,135,135,300,0
+2024-01-09,Tuesday,Chole Bhature,81,76,201,1
+2024-01-09,Tuesday,Dal Makhani,98,97,328,0
+2024-01-09,Tuesday,Aloo Paratha,149,143,359,0
+2024-01-10,Wednesday,Paneer Butter Masala,96,91,383,0
+2024-01-10,Wednesday,Rajma Chawal,149,144,315,0
+2024-01-10,Wednesday,Chole Bhature,138,133,343,0
+2024-01-10,Wednesday,Dal Makhani,99,96,202,1
+2024-01-10,Wednesday,Aloo Paratha,98,95,394,0
+2024-01-11,Thursday,Paneer Butter Masala,112,105,251,0
+2024-01-11,Thursday,Rajma Chawal,80,72,281,0
+2024-01-11,Thursday,Chole Bhature,110,101,350,0
+2024-01-11,Thursday,Dal Makhani,139,139,343,0
+2024-01-11,Thursday,Aloo Paratha,91,87,247,0
+2024-01-12,Friday,Paneer Butter Masala,98,96,208,0
+2024-01-12,Friday,Rajma Chawal,112,105,253,0
+2024-01-12,Friday,Chole Bhature,115,110,312,0
+2024-01-12,Friday,Dal Makhani,104,103,311,0
+2024-01-12,Friday,Aloo Paratha,145,140,281,0
+2024-01-13,Saturday,Paneer Butter Masala,120,117,388,0
+2024-01-13,Saturday,Rajma Chawal,93,89,232,0
+2024-01-13,Saturday,Chole Bhature,87,81,327,0
+2024-01-13,Saturday,Dal Makhani,112,110,327,0
+2024-01-13,Saturday,Aloo Paratha,109,104,221,0
+2024-01-14,Sunday,Paneer Butter Masala,133,126,250,0
+2024-01-14,Sunday,Rajma Chawal,109,109,220,0
+2024-01-14,Sunday,Chole Bhature,148,146,391,0
+2024-01-14,Sunday,Dal Makhani,128,128,391,0
+2024-01-14,Sunday,Aloo Paratha,125,121,357,0
+2024-01-15,Monday,Paneer Butter Masala,116,109,323,0
+2024-01-15,Monday,Rajma Chawal,132,130,245,0
+2024-01-15,Monday,Chole Bhature,142,138,315,0
+2024-01-15,Monday,Dal Makhani,146,145,360,0
+2024-01-15,Monday,Aloo Paratha,137,135,253,0
+2024-01-16,Tuesday,Paneer Butter Masala,111,106,223,0
+2024-01-16,Tuesday,Rajma Chawal,106,97,326,0
+2024-01-16,Tuesday,Chole Bhature,112,104,216,0
+2024-01-16,Tuesday,Dal Makhani,118,109,375,0
+2024-01-16,Tuesday,Aloo Paratha,129,121,298,0
+2024-01-17,Wednesday,Paneer Butter Masala,86,78,259,0
+2024-01-17,Wednesday,Rajma Chawal,144,137,219,0
+2024-01-17,Wednesday,Chole Bhature,93,91,343,0
+2024-01-17,Wednesday,Dal Makhani,145,139,291,0
+2024-01-17,Wednesday,Aloo Paratha,104,95,250,0
+2024-01-18,Thursday,Paneer Butter Masala,101,92,324,0
+2024-01-18,Thursday,Rajma Chawal,131,122,248,0
+2024-01-18,Thursday,Chole Bhature,139,135,253,0
+2024-01-18,Thursday,Dal Makhani,139,135,252,0
+2024-01-18,Thursday,Aloo Paratha,126,124,205,0
+2024-01-19,Friday,Paneer Butter Masala,95,94,251,0
+2024-01-19,Friday,Rajma Chawal,98,98,357,0
+2024-01-19,Friday,Chole Bhature,137,131,218,0
+2024-01-19,Friday,Dal Makhani,141,135,316,0
+2024-01-19,Friday,Aloo Paratha,80,71,339,0
+2024-01-20,Saturday,Paneer Butter Masala,127,119,233,0
+2024-01-20,Saturday,Rajma Chawal,80,74,316,0
+2024-01-20,Saturday,Chole Bhature,101,95,268,1
+2024-01-20,Saturday,Dal Makhani,95,93,353,0
+2024-01-20,Saturday,Aloo Paratha,108,104,384,1
+2024-01-21,Sunday,Paneer Butter Masala,141,138,293,0
+2024-01-21,Sunday,Rajma Chawal,127,123,343,0
+2024-01-21,Sunday,Chole Bhature,102,93,232,0
+2024-01-21,Sunday,Dal Makhani,113,110,268,0
+2024-01-21,Sunday,Aloo Paratha,137,137,346,0
+2024-01-22,Monday,Paneer Butter Masala,95,88,203,0
+2024-01-22,Monday,Rajma Chawal,111,108,201,0
+2024-01-22,Monday,Chole Bhature,114,114,377,0
+2024-01-22,Monday,Dal Makhani,122,118,378,0
+2024-01-22,Monday,Aloo Paratha,112,105,264,0
+2024-01-23,Tuesday,Paneer Butter Masala,108,107,243,1
+2024-01-23,Tuesday,Rajma Chawal,87,78,234,0
+2024-01-23,Tuesday,Chole Bhature,86,83,361,0
+2024-01-23,Tuesday,Dal Makhani,108,101,313,0
+2024-01-23,Tuesday,Aloo Paratha,115,106,220,0
+2024-01-24,Wednesday,Paneer Butter Masala,143,141,351,0
+2024-01-24,Wednesday,Rajma Chawal,103,97,235,0
+2024-01-24,Wednesday,Chole Bhature,91,91,236,0
+2024-01-24,Wednesday,Dal Makhani,109,109,222,0
+2024-01-24,Wednesday,Aloo Paratha,92,90,283,0
+2024-01-25,Thursday,Paneer Butter Masala,140,132,339,0
+2024-01-25,Thursday,Rajma Chawal,107,104,208,0
+2024-01-25,Thursday,Chole Bhature,95,91,310,1
+2024-01-25,Thursday,Dal Makhani,104,101,339,0
+2024-01-25,Thursday,Aloo Paratha,102,94,252,0
+2024-01-26,Friday,Paneer Butter Masala,121,112,380,1
+2024-01-26,Friday,Rajma Chawal,84,82,321,0
+2024-01-26,Friday,Chole Bhature,97,89,274,0
+2024-01-26,Friday,Dal Makhani,86,79,344,1
+2024-01-26,Friday,Aloo Paratha,106,97,377,0
+2024-01-27,Saturday,Paneer Butter Masala,116,111,228,0
+2024-01-27,Saturday,Rajma Chawal,144,139,308,0
+2024-01-27,Saturday,Chole Bhature,124,121,270,0
+2024-01-27,Saturday,Dal Makhani,98,93,358,0
+2024-01-27,Saturday,Aloo Paratha,98,92,289,0
+2024-01-28,Sunday,Paneer Butter Masala,92,91,372,0
+2024-01-28,Sunday,Rajma Chawal,99,92,257,0
+2024-01-28,Sunday,Chole Bhature,118,118,304,0
+2024-01-28,Sunday,Dal Makhani,141,133,291,0
+2024-01-28,Sunday,Aloo Paratha,104,97,312,0
+2024-01-29,Monday,Paneer Butter Masala,85,76,316,1
+2024-01-29,Monday,Rajma Chawal,124,120,359,1
+2024-01-29,Monday,Chole Bhature,98,95,363,1
+2024-01-29,Monday,Dal Makhani,128,128,246,0
+2024-01-29,Monday,Aloo Paratha,82,76,317,1
+2024-01-30,Tuesday,Paneer Butter Masala,95,88,211,0
+2024-01-30,Tuesday,Rajma Chawal,107,103,351,0
+2024-01-30,Tuesday,Chole Bhature,115,106,291,0
+2024-01-30,Tuesday,Dal Makhani,129,125,259,0
+2024-01-30,Tuesday,Aloo Paratha,106,101,391,1
+2024-01-31,Wednesday,Paneer Butter Masala,108,106,360,0
+2024-01-31,Wednesday,Rajma Chawal,148,140,281,0
+2024-01-31,Wednesday,Chole Bhature,109,108,255,0
+2024-01-31,Wednesday,Dal Makhani,112,107,204,0
+2024-01-31,Wednesday,Aloo Paratha,90,86,376,0
+2024-02-01,Thursday,Paneer Butter Masala,138,138,285,0
+2024-02-01,Thursday,Rajma Chawal,80,76,297,1
+2024-02-01,Thursday,Chole Bhature,148,144,205,0
+2024-02-01,Thursday,Dal Makhani,102,98,380,0
+2024-02-01,Thursday,Aloo Paratha,96,92,282,0
+2024-02-02,Friday,Paneer Butter Masala,80,78,309,0
+2024-02-02,Friday,Rajma Chawal,141,141,203,0
+2024-02-02,Friday,Chole Bhature,113,106,231,1
+2024-02-02,Friday,Dal Makhani,133,128,361,0
+2024-02-02,Friday,Aloo Paratha,91,91,249,0
+2024-02-03,Saturday,Paneer Butter Masala,136,136,332,0
+2024-02-03,Saturday,Rajma Chawal,102,98,246,0
+2024-02-03,Saturday,Chole Bhature,130,124,265,0
+2024-02-03,Saturday,Dal Makhani,129,128,237,0
+2024-02-03,Saturday,Aloo Paratha,130,129,278,0
+2024-02-04,Sunday,Paneer Butter Masala,109,103,365,0
+2024-02-04,Sunday,Rajma Chawal,84,81,280,0
+2024-02-04,Sunday,Chole Bhature,96,93,344,0
+2024-02-04,Sunday,Dal Makhani,85,81,233,0
+2024-02-04,Sunday,Aloo Paratha,122,120,325,0
+2024-02-05,Monday,Paneer Butter Masala,134,129,350,0
+2024-02-05,Monday,Rajma Chawal,83,76,331,0
+2024-02-05,Monday,Chole Bhature,146,145,295,0
+2024-02-05,Monday,Dal Makhani,98,94,250,0
+2024-02-05,Monday,Aloo Paratha,121,116,291,1
+2024-02-06,Tuesday,Paneer Butter Masala,84,76,200,0
+2024-02-06,Tuesday,Rajma Chawal,113,113,245,0
+2024-02-06,Tuesday,Chole Bhature,106,98,244,1
+2024-02-06,Tuesday,Dal Makhani,135,135,246,0
+2024-02-06,Tuesday,Aloo Paratha,87,87,200,0
+2024-02-07,Wednesday,Paneer Butter Masala,126,119,379,0
+2024-02-07,Wednesday,Rajma Chawal,81,72,227,1
+2024-02-07,Wednesday,Chole Bhature,86,84,255,0
+2024-02-07,Wednesday,Dal Makhani,97,88,306,0
+2024-02-07,Wednesday,Aloo Paratha,94,86,314,0
+2024-02-08,Thursday,Paneer Butter Masala,118,110,227,0
+2024-02-08,Thursday,Rajma Chawal,123,115,285,0
+2024-02-08,Thursday,Chole Bhature,147,138,224,0
+2024-02-08,Thursday,Dal Makhani,97,94,308,0
+2024-02-08,Thursday,Aloo Paratha,87,80,233,0
+2024-02-09,Friday,Paneer Butter Masala,121,113,282,0
+2024-02-09,Friday,Rajma Chawal,105,104,379,0
+2024-02-09,Friday,Chole Bhature,149,145,258,0
+2024-02-09,Friday,Dal Makhani,101,97,380,0
+2024-02-09,Friday,Aloo Paratha,83,76,311,0
+2024-02-10,Saturday,Paneer Butter Masala,110,103,330,0
+2024-02-10,Saturday,Rajma Chawal,85,84,351,0
+2024-02-10,Saturday,Chole Bhature,83,78,274,0
+2024-02-10,Saturday,Dal Makhani,130,122,293,0
+2024-02-10,Saturday,Aloo Paratha,105,103,335,0
+2024-02-11,Sunday,Paneer Butter Masala,149,140,332,0
+2024-02-11,Sunday,Rajma Chawal,99,99,218,0
+2024-02-11,Sunday,Chole Bhature,93,88,200,0
+2024-02-11,Sunday,Dal Makhani,82,82,338,0
+2024-02-11,Sunday,Aloo Paratha,84,78,209,0
+2024-02-12,Monday,Paneer Butter Masala,92,85,329,0
+2024-02-12,Monday,Rajma Chawal,142,138,264,1
+2024-02-12,Monday,Chole Bhature,94,87,208,0
+2024-02-12,Monday,Dal Makhani,128,124,362,0
+2024-02-12,Monday,Aloo Paratha,88,87,377,0
+2024-02-13,Tuesday,Paneer Butter Masala,80,73,234,0
+2024-02-13,Tuesday,Rajma Chawal,143,136,259,0
+2024-02-13,Tuesday,Chole Bhature,139,137,213,0
+2024-02-13,Tuesday,Dal Makhani,105,102,204,0
+2024-02-13,Tuesday,Aloo Paratha,97,90,241,0
+2024-02-14,Wednesday,Paneer Butter Masala,93,91,303,0
+2024-02-14,Wednesday,Rajma Chawal,102,102,296,0
+2024-02-14,Wednesday,Chole Bhature,132,125,393,0
+2024-02-14,Wednesday,Dal Makhani,130,125,238,0
+2024-02-14,Wednesday,Aloo Paratha,130,123,334,0
+2024-02-15,Thursday,Paneer Butter Masala,108,108,214,0
+2024-02-15,Thursday,Rajma Chawal,115,110,354,0
+2024-02-15,Thursday,Chole Bhature,134,134,354,1
+2024-02-15,Thursday,Dal Makhani,145,136,285,0
+2024-02-15,Thursday,Aloo Paratha,117,114,273,0
+2024-02-16,Friday,Paneer Butter Masala,135,128,379,0
+2024-02-16,Friday,Rajma Chawal,147,146,246,1
+2024-02-16,Friday,Chole Bhature,115,112,314,0
+2024-02-16,Friday,Dal Makhani,148,145,226,0
+2024-02-16,Friday,Aloo Paratha,117,112,273,0
+2024-02-17,Saturday,Paneer Butter Masala,125,116,246,0
+2024-02-17,Saturday,Rajma Chawal,139,136,389,0
+2024-02-17,Saturday,Chole Bhature,116,109,332,0
+2024-02-17,Saturday,Dal Makhani,110,101,291,1
+2024-02-17,Saturday,Aloo Paratha,108,101,250,0
+2024-02-18,Sunday,Paneer Butter Masala,102,102,210,0
+2024-02-18,Sunday,Rajma Chawal,115,110,348,0
+2024-02-18,Sunday,Chole Bhature,142,137,200,0
+2024-02-18,Sunday,Dal Makhani,94,90,367,0
+2024-02-18,Sunday,Aloo Paratha,88,79,252,0
+2024-02-19,Monday,Paneer Butter Masala,105,97,316,0
+2024-02-19,Monday,Rajma Chawal,117,116,224,0
+2024-02-19,Monday,Chole Bhature,96,94,361,0
+2024-02-19,Monday,Dal Makhani,131,126,224,1
+2024-02-19,Monday,Aloo Paratha,128,123,360,0
+2024-02-20,Tuesday,Paneer Butter Masala,128,122,313,0
+2024-02-20,Tuesday,Rajma Chawal,128,125,304,0
+2024-02-20,Tuesday,Chole Bhature,140,133,262,0
+2024-02-20,Tuesday,Dal Makhani,92,86,200,0
+2024-02-20,Tuesday,Aloo Paratha,141,141,383,1
+2024-02-21,Wednesday,Paneer Butter Masala,95,88,229,0
+2024-02-21,Wednesday,Rajma Chawal,126,125,200,0
+2024-02-21,Wednesday,Chole Bhature,117,115,312,0
+2024-02-21,Wednesday,Dal Makhani,87,81,328,0
+2024-02-21,Wednesday,Aloo Paratha,89,80,231,0
+2024-02-22,Thursday,Paneer Butter Masala,134,133,361,0
+2024-02-22,Thursday,Rajma Chawal,144,136,207,0
+2024-02-22,Thursday,Chole Bhature,133,125,386,0
+2024-02-22,Thursday,Dal Makhani,130,130,266,0
+2024-02-22,Thursday,Aloo Paratha,113,111,207,0
+2024-02-23,Friday,Paneer Butter Masala,111,104,277,0
+2024-02-23,Friday,Rajma Chawal,147,144,343,0
+2024-02-23,Friday,Chole Bhature,134,133,341,1
+2024-02-23,Friday,Dal Makhani,112,106,206,0
+2024-02-23,Friday,Aloo Paratha,98,95,311,0
+2024-02-24,Saturday,Paneer Butter Masala,81,81,281,0
+2024-02-24,Saturday,Rajma Chawal,90,81,347,0
+2024-02-24,Saturday,Chole Bhature,91,88,394,0
+2024-02-24,Saturday,Dal Makhani,88,87,365,0
+2024-02-24,Saturday,Aloo Paratha,103,103,298,0
+2024-02-25,Sunday,Paneer Butter Masala,138,132,319,0
+2024-02-25,Sunday,Rajma Chawal,93,85,313,0
+2024-02-25,Sunday,Chole Bhature,101,98,224,0
+2024-02-25,Sunday,Dal Makhani,116,111,228,0
+2024-02-25,Sunday,Aloo Paratha,121,118,284,0
+2024-02-26,Monday,Paneer Butter Masala,96,92,233,0
+2024-02-26,Monday,Rajma Chawal,106,98,321,0
+2024-02-26,Monday,Chole Bhature,91,83,367,0
+2024-02-26,Monday,Dal Makhani,124,124,337,0
+2024-02-26,Monday,Aloo Paratha,125,124,389,0
+2024-02-27,Tuesday,Paneer Butter Masala,144,142,306,1
+2024-02-27,Tuesday,Rajma Chawal,105,101,314,0
+2024-02-27,Tuesday,Chole Bhature,115,115,210,0
+2024-02-27,Tuesday,Dal Makhani,134,127,253,0
+2024-02-27,Tuesday,Aloo Paratha,135,135,268,0
+2024-02-28,Wednesday,Paneer Butter Masala,141,140,347,0
+2024-02-28,Wednesday,Rajma Chawal,119,119,393,0
+2024-02-28,Wednesday,Chole Bhature,122,115,260,0
+2024-02-28,Wednesday,Dal Makhani,114,112,238,1
+2024-02-28,Wednesday,Aloo Paratha,123,121,307,0
+2024-02-29,Thursday,Paneer Butter Masala,91,89,297,0
+2024-02-29,Thursday,Rajma Chawal,128,128,386,0
+2024-02-29,Thursday,Chole Bhature,126,119,254,0
+2024-02-29,Thursday,Dal Makhani,149,142,348,0
+2024-02-29,Thursday,Aloo Paratha,91,82,288,1
+2024-03-01,Friday,Paneer Butter Masala,126,117,225,0
+2024-03-01,Friday,Rajma Chawal,102,93,344,0
+2024-03-01,Friday,Chole Bhature,93,89,334,0
+2024-03-01,Friday,Dal Makhani,127,120,314,0
+2024-03-01,Friday,Aloo Paratha,118,116,281,0
+2024-03-02,Saturday,Paneer Butter Masala,96,89,302,0
+2024-03-02,Saturday,Rajma Chawal,124,123,387,0
+2024-03-02,Saturday,Chole Bhature,119,110,370,0
+2024-03-02,Saturday,Dal Makhani,118,111,307,0
+2024-03-02,Saturday,Aloo Paratha,104,103,292,0
+2024-03-03,Sunday,Paneer Butter Masala,145,139,369,0
+2024-03-03,Sunday,Rajma Chawal,109,103,233,0
+2024-03-03,Sunday,Chole Bhature,111,109,217,1
+2024-03-03,Sunday,Dal Makhani,108,108,245,0
+2024-03-03,Sunday,Aloo Paratha,95,88,384,0
+2024-03-04,Monday,Paneer Butter Masala,89,81,320,0
+2024-03-04,Monday,Rajma Chawal,84,84,283,0
+2024-03-04,Monday,Chole Bhature,124,117,202,0
+2024-03-04,Monday,Dal Makhani,97,93,267,1
+2024-03-04,Monday,Aloo Paratha,132,124,392,0
+2024-03-05,Tuesday,Paneer Butter Masala,147,138,320,0
+2024-03-05,Tuesday,Rajma Chawal,149,143,370,0
+2024-03-05,Tuesday,Chole Bhature,90,89,245,0
+2024-03-05,Tuesday,Dal Makhani,83,76,251,0
+2024-03-05,Tuesday,Aloo Paratha,133,129,262,0
+2024-03-06,Wednesday,Paneer Butter Masala,136,127,309,1
+2024-03-06,Wednesday,Rajma Chawal,85,81,202,1
+2024-03-06,Wednesday,Chole Bhature,128,120,246,0
+2024-03-06,Wednesday,Dal Makhani,140,131,321,0
+2024-03-06,Wednesday,Aloo Paratha,141,141,281,0
+2024-03-07,Thursday,Paneer Butter Masala,92,85,359,0
+2024-03-07,Thursday,Rajma Chawal,147,143,288,1
+2024-03-07,Thursday,Chole Bhature,135,133,304,0
+2024-03-07,Thursday,Dal Makhani,88,86,228,0
+2024-03-07,Thursday,Aloo Paratha,121,113,275,0
+2024-03-08,Friday,Paneer Butter Masala,84,83,224,0
+2024-03-08,Friday,Rajma Chawal,84,75,237,0
+2024-03-08,Friday,Chole Bhature,139,135,236,0
+2024-03-08,Friday,Dal Makhani,119,117,313,0
+2024-03-08,Friday,Aloo Paratha,119,118,255,0
+2024-03-09,Saturday,Paneer Butter Masala,85,78,232,0
+2024-03-09,Saturday,Rajma Chawal,138,130,367,0
+2024-03-09,Saturday,Chole Bhature,132,123,244,0
+2024-03-09,Saturday,Dal Makhani,117,111,354,0
+2024-03-09,Saturday,Aloo Paratha,137,129,244,1
+2024-03-10,Sunday,Paneer Butter Masala,121,112,222,0
+2024-03-10,Sunday,Rajma Chawal,109,103,380,0
+2024-03-10,Sunday,Chole Bhature,81,75,299,0
+2024-03-10,Sunday,Dal Makhani,125,125,212,0
+2024-03-10,Sunday,Aloo Paratha,139,132,303,0
+2024-03-11,Monday,Paneer Butter Masala,109,103,269,0
+2024-03-11,Monday,Rajma Chawal,107,103,262,0
+2024-03-11,Monday,Chole Bhature,99,96,395,1
+2024-03-11,Monday,Dal Makhani,96,91,391,0
+2024-03-11,Monday,Aloo Paratha,144,139,317,0
+2024-03-12,Tuesday,Paneer Butter Masala,93,90,249,0
+2024-03-12,Tuesday,Rajma Chawal,86,86,379,0
+2024-03-12,Tuesday,Chole Bhature,111,109,278,0
+2024-03-12,Tuesday,Dal Makhani,125,124,225,0
+2024-03-12,Tuesday,Aloo Paratha,92,84,298,0
+2024-03-13,Wednesday,Paneer Butter Masala,108,105,318,0
+2024-03-13,Wednesday,Rajma Chawal,101,99,374,0
+2024-03-13,Wednesday,Chole Bhature,100,96,383,0
+2024-03-13,Wednesday,Dal Makhani,98,90,205,0
+2024-03-13,Wednesday,Aloo Paratha,137,132,200,0
+2024-03-14,Thursday,Paneer Butter Masala,114,114,388,0
+2024-03-14,Thursday,Rajma Chawal,97,90,211,0
+2024-03-14,Thursday,Chole Bhature,132,125,344,0
+2024-03-14,Thursday,Dal Makhani,129,126,373,1
+2024-03-14,Thursday,Aloo Paratha,143,139,292,0
+2024-03-15,Friday,Paneer Butter Masala,82,79,321,0
+2024-03-15,Friday,Rajma Chawal,96,93,352,0
+2024-03-15,Friday,Chole Bhature,127,119,365,0
+2024-03-15,Friday,Dal Makhani,81,74,316,0
+2024-03-15,Friday,Aloo Paratha,100,99,263,0
+2024-03-16,Saturday,Paneer Butter Masala,117,109,281,0
+2024-03-16,Saturday,Rajma Chawal,120,113,301,0
+2024-03-16,Saturday,Chole Bhature,120,120,378,0
+2024-03-16,Saturday,Dal Makhani,111,106,245,0
+2024-03-16,Saturday,Aloo Paratha,112,103,347,0
+2024-03-17,Sunday,Paneer Butter Masala,81,81,296,1
+2024-03-17,Sunday,Rajma Chawal,112,109,357,0
+2024-03-17,Sunday,Chole Bhature,145,140,302,0
+2024-03-17,Sunday,Dal Makhani,94,93,373,1
+2024-03-17,Sunday,Aloo Paratha,128,121,371,0
+2024-03-18,Monday,Paneer Butter Masala,85,77,394,0
+2024-03-18,Monday,Rajma Chawal,111,103,302,0
+2024-03-18,Monday,Chole Bhature,129,126,207,0
+2024-03-18,Monday,Dal Makhani,86,83,326,0
+2024-03-18,Monday,Aloo Paratha,137,132,333,0
+2024-03-19,Tuesday,Paneer Butter Masala,120,111,202,0
+2024-03-19,Tuesday,Rajma Chawal,91,83,211,0
+2024-03-19,Tuesday,Chole Bhature,98,92,321,0
+2024-03-19,Tuesday,Dal Makhani,87,81,372,0
+2024-03-19,Tuesday,Aloo Paratha,130,129,231,1
+2024-03-20,Wednesday,Paneer Butter Masala,116,109,349,0
+2024-03-20,Wednesday,Rajma Chawal,107,98,330,0
+2024-03-20,Wednesday,Chole Bhature,133,133,388,0
+2024-03-20,Wednesday,Dal Makhani,110,101,248,0
+2024-03-20,Wednesday,Aloo Paratha,116,113,347,0
+2024-03-21,Thursday,Paneer Butter Masala,99,92,325,0
+2024-03-21,Thursday,Rajma Chawal,115,106,378,0
+2024-03-21,Thursday,Chole Bhature,113,110,265,0
+2024-03-21,Thursday,Dal Makhani,137,132,369,0
+2024-03-21,Thursday,Aloo Paratha,97,90,330,0
+2024-03-22,Friday,Paneer Butter Masala,105,98,298,0
+2024-03-22,Friday,Rajma Chawal,121,120,286,0
+2024-03-22,Friday,Chole Bhature,117,109,268,0
+2024-03-22,Friday,Dal Makhani,93,86,259,0
+2024-03-22,Friday,Aloo Paratha,81,75,283,0
+2024-03-23,Saturday,Paneer Butter Masala,107,106,322,0
+2024-03-23,Saturday,Rajma Chawal,144,137,204,0
+2024-03-23,Saturday,Chole Bhature,124,118,363,0
+2024-03-23,Saturday,Dal Makhani,89,87,338,0
+2024-03-23,Saturday,Aloo Paratha,89,81,279,0
+2024-03-24,Sunday,Paneer Butter Masala,87,87,219,0
+2024-03-24,Sunday,Rajma Chawal,107,99,317,0
+2024-03-24,Sunday,Chole Bhature,116,116,374,0
+2024-03-24,Sunday,Dal Makhani,135,130,243,0
+2024-03-24,Sunday,Aloo Paratha,99,98,388,0
+2024-03-25,Monday,Paneer Butter Masala,99,90,236,1
+2024-03-25,Monday,Rajma Chawal,114,109,318,0
+2024-03-25,Monday,Chole Bhature,148,148,258,0
+2024-03-25,Monday,Dal Makhani,99,95,211,0
+2024-03-25,Monday,Aloo Paratha,129,121,242,0
+2024-03-26,Tuesday,Paneer Butter Masala,122,121,383,0
+2024-03-26,Tuesday,Rajma Chawal,102,99,237,0
+2024-03-26,Tuesday,Chole Bhature,87,86,323,0
+2024-03-26,Tuesday,Dal Makhani,108,103,207,0
+2024-03-26,Tuesday,Aloo Paratha,126,125,285,0
+2024-03-27,Wednesday,Paneer Butter Masala,122,113,318,1
+2024-03-27,Wednesday,Rajma Chawal,105,98,344,0
+2024-03-27,Wednesday,Chole Bhature,125,122,312,0
+2024-03-27,Wednesday,Dal Makhani,110,106,346,0
+2024-03-27,Wednesday,Aloo Paratha,141,140,304,0
+2024-03-28,Thursday,Paneer Butter Masala,142,134,397,0
+2024-03-28,Thursday,Rajma Chawal,127,119,288,1
+2024-03-28,Thursday,Chole Bhature,147,146,358,0
+2024-03-28,Thursday,Dal Makhani,98,93,331,0
+2024-03-28,Thursday,Aloo Paratha,102,100,340,0
+2024-03-29,Friday,Paneer Butter Masala,133,127,328,1
+2024-03-29,Friday,Rajma Chawal,144,135,342,0
+2024-03-29,Friday,Chole Bhature,98,90,348,0
+2024-03-29,Friday,Dal Makhani,123,118,234,1
+2024-03-29,Friday,Aloo Paratha,145,137,298,0
+2024-03-30,Saturday,Paneer Butter Masala,127,126,225,0
+2024-03-30,Saturday,Rajma Chawal,105,97,316,0
+2024-03-30,Saturday,Chole Bhature,116,113,247,0
+2024-03-30,Saturday,Dal Makhani,149,148,375,0
+2024-03-30,Saturday,Aloo Paratha,100,94,370,0
+2024-03-31,Sunday,Paneer Butter Masala,126,122,279,0
+2024-03-31,Sunday,Rajma Chawal,115,113,224,1
+2024-03-31,Sunday,Chole Bhature,92,87,220,0
+2024-03-31,Sunday,Dal Makhani,147,143,277,0
+2024-03-31,Sunday,Aloo Paratha,108,106,226,0
+2024-04-01,Monday,Paneer Butter Masala,115,114,305,0
+2024-04-01,Monday,Rajma Chawal,83,74,276,0
+2024-04-01,Monday,Chole Bhature,118,112,206,0
+2024-04-01,Monday,Dal Makhani,140,131,369,0
+2024-04-01,Monday,Aloo Paratha,147,142,283,0
+2024-04-02,Tuesday,Paneer Butter Masala,123,116,328,0
+2024-04-02,Tuesday,Rajma Chawal,92,86,246,0
+2024-04-02,Tuesday,Chole Bhature,88,79,220,0
+2024-04-02,Tuesday,Dal Makhani,121,114,209,0
+2024-04-02,Tuesday,Aloo Paratha,105,101,248,0
+2024-04-03,Wednesday,Paneer Butter Masala,98,95,351,0
+2024-04-03,Wednesday,Rajma Chawal,97,95,288,0
+2024-04-03,Wednesday,Chole Bhature,148,148,382,0
+2024-04-03,Wednesday,Dal Makhani,100,100,360,0
+2024-04-03,Wednesday,Aloo Paratha,94,92,236,0
+2024-04-04,Thursday,Paneer Butter Masala,90,81,359,0
+2024-04-04,Thursday,Rajma Chawal,136,128,276,0
+2024-04-04,Thursday,Chole Bhature,86,82,234,0
+2024-04-04,Thursday,Dal Makhani,118,110,241,0
+2024-04-04,Thursday,Aloo Paratha,139,137,223,0
+2024-04-05,Friday,Paneer Butter Masala,121,115,301,0
+2024-04-05,Friday,Rajma Chawal,115,113,235,0
+2024-04-05,Friday,Chole Bhature,149,141,296,0
+2024-04-05,Friday,Dal Makhani,128,127,212,0
+2024-04-05,Friday,Aloo Paratha,106,102,371,0
+2024-04-06,Saturday,Paneer Butter Masala,129,127,399,0
+2024-04-06,Saturday,Rajma Chawal,137,135,324,0
+2024-04-06,Saturday,Chole Bhature,123,122,329,0
+2024-04-06,Saturday,Dal Makhani,109,106,234,1
+2024-04-06,Saturday,Aloo Paratha,137,134,243,0
+2024-04-07,Sunday,Paneer Butter Masala,126,118,230,0
+2024-04-07,Sunday,Rajma Chawal,141,133,305,0
+2024-04-07,Sunday,Chole Bhature,96,89,211,0
+2024-04-07,Sunday,Dal Makhani,109,103,343,0
+2024-04-07,Sunday,Aloo Paratha,84,81,303,0
+2024-04-08,Monday,Paneer Butter Masala,144,136,307,0
+2024-04-08,Monday,Rajma Chawal,149,144,283,1
+2024-04-08,Monday,Chole Bhature,112,108,231,0
+2024-04-08,Monday,Dal Makhani,93,90,237,0
+2024-04-08,Monday,Aloo Paratha,145,137,313,1
+2024-04-09,Tuesday,Paneer Butter Masala,146,143,392,0
+2024-04-09,Tuesday,Rajma Chawal,147,146,353,0
+2024-04-09,Tuesday,Chole Bhature,101,96,362,0
+2024-04-09,Tuesday,Dal Makhani,128,119,211,0
+2024-04-09,Tuesday,Aloo Paratha,114,107,372,0
+2024-04-10,Wednesday,Paneer Butter Masala,146,140,333,0
+2024-04-10,Wednesday,Rajma Chawal,94,90,272,1
+2024-04-10,Wednesday,Chole Bhature,81,79,290,0
+2024-04-10,Wednesday,Dal Makhani,89,81,219,0
+2024-04-10,Wednesday,Aloo Paratha,112,109,253,0
+2024-04-11,Thursday,Paneer Butter Masala,133,130,264,0
+2024-04-11,Thursday,Rajma Chawal,85,77,368,0
+2024-04-11,Thursday,Chole Bhature,100,99,335,0
+2024-04-11,Thursday,Dal Makhani,147,144,278,0
+2024-04-11,Thursday,Aloo Paratha,142,137,259,1
+2024-04-12,Friday,Paneer Butter Masala,81,75,242,0
+2024-04-12,Friday,Rajma Chawal,113,104,204,0
+2024-04-12,Friday,Chole Bhature,90,89,325,1
+2024-04-12,Friday,Dal Makhani,88,86,255,1
+2024-04-12,Friday,Aloo Paratha,141,139,355,0
+2024-04-13,Saturday,Paneer Butter Masala,83,80,343,0
+2024-04-13,Saturday,Rajma Chawal,131,128,216,0
+2024-04-13,Saturday,Chole Bhature,129,125,365,0
+2024-04-13,Saturday,Dal Makhani,86,81,261,0
+2024-04-13,Saturday,Aloo Paratha,84,78,285,0
+2024-04-14,Sunday,Paneer Butter Masala,100,91,348,0
+2024-04-14,Sunday,Rajma Chawal,118,114,319,0
+2024-04-14,Sunday,Chole Bhature,124,121,380,0
+2024-04-14,Sunday,Dal Makhani,90,86,387,0
+2024-04-14,Sunday,Aloo Paratha,105,102,382,0
+2024-04-15,Monday,Paneer Butter Masala,131,126,311,0
+2024-04-15,Monday,Rajma Chawal,92,92,241,0
+2024-04-15,Monday,Chole Bhature,88,80,216,0
+2024-04-15,Monday,Dal Makhani,127,127,259,0
+2024-04-15,Monday,Aloo Paratha,139,132,257,0
+2024-04-16,Tuesday,Paneer Butter Masala,87,82,233,0
+2024-04-16,Tuesday,Rajma Chawal,96,90,278,0
+2024-04-16,Tuesday,Chole Bhature,111,111,268,0
+2024-04-16,Tuesday,Dal Makhani,122,122,207,1
+2024-04-16,Tuesday,Aloo Paratha,103,103,351,0
+2024-04-17,Wednesday,Paneer Butter Masala,137,134,220,0
+2024-04-17,Wednesday,Rajma Chawal,86,84,342,0
+2024-04-17,Wednesday,Chole Bhature,84,80,385,0
+2024-04-17,Wednesday,Dal Makhani,87,78,295,1
+2024-04-17,Wednesday,Aloo Paratha,87,80,311,0
+2024-04-18,Thursday,Paneer Butter Masala,129,127,393,0
+2024-04-18,Thursday,Rajma Chawal,147,139,325,0
+2024-04-18,Thursday,Chole Bhature,141,140,321,0
+2024-04-18,Thursday,Dal Makhani,91,84,363,0
+2024-04-18,Thursday,Aloo Paratha,132,131,212,0
+2024-04-19,Friday,Paneer Butter Masala,96,89,214,0
+2024-04-19,Friday,Rajma Chawal,138,129,352,0
+2024-04-19,Friday,Chole Bhature,109,106,221,0
+2024-04-19,Friday,Dal Makhani,130,130,231,0
+2024-04-19,Friday,Aloo Paratha,111,105,321,0
+2024-04-20,Saturday,Paneer Butter Masala,126,125,211,0
+2024-04-20,Saturday,Rajma Chawal,87,80,348,0
+2024-04-20,Saturday,Chole Bhature,101,93,350,0
+2024-04-20,Saturday,Dal Makhani,92,91,228,0
+2024-04-20,Saturday,Aloo Paratha,106,105,379,0
+2024-04-21,Sunday,Paneer Butter Masala,123,118,350,0
+2024-04-21,Sunday,Rajma Chawal,135,133,388,0
+2024-04-21,Sunday,Chole Bhature,102,96,218,0
+2024-04-21,Sunday,Dal Makhani,87,78,224,0
+2024-04-21,Sunday,Aloo Paratha,80,76,271,0
+2024-04-22,Monday,Paneer Butter Masala,143,134,331,0
+2024-04-22,Monday,Rajma Chawal,100,94,209,0
+2024-04-22,Monday,Chole Bhature,120,112,265,0
+2024-04-22,Monday,Dal Makhani,137,132,285,0
+2024-04-22,Monday,Aloo Paratha,113,109,213,0
+2024-04-23,Tuesday,Paneer Butter Masala,95,93,274,0
+2024-04-23,Tuesday,Rajma Chawal,135,133,269,0
+2024-04-23,Tuesday,Chole Bhature,83,80,331,0
+2024-04-23,Tuesday,Dal Makhani,116,111,353,0
+2024-04-23,Tuesday,Aloo Paratha,100,91,302,0
+2024-04-24,Wednesday,Paneer Butter Masala,139,131,203,0
+2024-04-24,Wednesday,Rajma Chawal,83,81,216,1
+2024-04-24,Wednesday,Chole Bhature,137,131,279,0
+2024-04-24,Wednesday,Dal Makhani,103,102,319,0
+2024-04-24,Wednesday,Aloo Paratha,110,108,346,0
+2024-04-25,Thursday,Paneer Butter Masala,101,94,309,0
+2024-04-25,Thursday,Rajma Chawal,137,132,229,0
+2024-04-25,Thursday,Chole Bhature,143,141,299,0
+2024-04-25,Thursday,Dal Makhani,134,134,293,0
+2024-04-25,Thursday,Aloo Paratha,142,139,345,1
+2024-04-26,Friday,Paneer Butter Masala,136,131,246,0
+2024-04-26,Friday,Rajma Chawal,149,146,344,0
+2024-04-26,Friday,Chole Bhature,94,89,246,0
+2024-04-26,Friday,Dal Makhani,88,79,323,0
+2024-04-26,Friday,Aloo Paratha,89,88,260,0
+2024-04-27,Saturday,Paneer Butter Masala,149,149,306,0
+2024-04-27,Saturday,Rajma Chawal,98,89,250,0
+2024-04-27,Saturday,Chole Bhature,148,144,353,0
+2024-04-27,Saturday,Dal Makhani,143,139,348,0
+2024-04-27,Saturday,Aloo Paratha,83,77,289,0
+2024-04-28,Sunday,Paneer Butter Masala,80,73,362,0
+2024-04-28,Sunday,Rajma Chawal,120,115,269,0
+2024-04-28,Sunday,Chole Bhature,139,131,307,0
+2024-04-28,Sunday,Dal Makhani,115,111,351,1
+2024-04-28,Sunday,Aloo Paratha,109,104,307,0
+2024-04-29,Monday,Paneer Butter Masala,134,127,362,0
+2024-04-29,Monday,Rajma Chawal,133,124,343,0
+2024-04-29,Monday,Chole Bhature,123,115,269,0
+2024-04-29,Monday,Dal Makhani,136,132,383,0
+2024-04-29,Monday,Aloo Paratha,86,81,360,0
+2024-04-30,Tuesday,Paneer Butter Masala,99,92,359,0
+2024-04-30,Tuesday,Rajma Chawal,100,91,398,0
+2024-04-30,Tuesday,Chole Bhature,93,85,319,0
+2024-04-30,Tuesday,Dal Makhani,148,146,220,0
+2024-04-30,Tuesday,Aloo Paratha,128,126,364,0
+2024-05-01,Wednesday,Paneer Butter Masala,91,83,284,0
+2024-05-01,Wednesday,Rajma Chawal,129,125,360,0
+2024-05-01,Wednesday,Chole Bhature,112,112,270,0
+2024-05-01,Wednesday,Dal Makhani,107,98,260,0
+2024-05-01,Wednesday,Aloo Paratha,128,128,366,0
+2024-05-02,Thursday,Paneer Butter Masala,144,135,397,0
+2024-05-02,Thursday,Rajma Chawal,101,93,201,0
+2024-05-02,Thursday,Chole Bhature,95,93,297,0
+2024-05-02,Thursday,Dal Makhani,119,114,285,0
+2024-05-02,Thursday,Aloo Paratha,143,141,337,0
+2024-05-03,Friday,Paneer Butter Masala,111,105,391,0
+2024-05-03,Friday,Rajma Chawal,147,144,353,0
+2024-05-03,Friday,Chole Bhature,93,85,319,0
+2024-05-03,Friday,Dal Makhani,105,105,227,1
+2024-05-03,Friday,Aloo Paratha,82,75,352,0
+2024-05-04,Saturday,Paneer Butter Masala,85,79,241,0
+2024-05-04,Saturday,Rajma Chawal,129,127,288,0
+2024-05-04,Saturday,Chole Bhature,91,82,210,1
+2024-05-04,Saturday,Dal Makhani,115,111,240,0
+2024-05-04,Saturday,Aloo Paratha,88,81,254,0
+2024-05-05,Sunday,Paneer Butter Masala,149,148,259,0
+2024-05-05,Sunday,Rajma Chawal,82,81,330,0
+2024-05-05,Sunday,Chole Bhature,80,74,360,0
+2024-05-05,Sunday,Dal Makhani,111,107,300,0
+2024-05-05,Sunday,Aloo Paratha,98,90,397,0
+2024-05-06,Monday,Paneer Butter Masala,95,95,245,0
+2024-05-06,Monday,Rajma Chawal,100,99,318,0
+2024-05-06,Monday,Chole Bhature,138,132,301,0
+2024-05-06,Monday,Dal Makhani,104,102,268,0
+2024-05-06,Monday,Aloo Paratha,99,98,224,0
+2024-05-07,Tuesday,Paneer Butter Masala,140,132,332,0
+2024-05-07,Tuesday,Rajma Chawal,85,83,377,0
+2024-05-07,Tuesday,Chole Bhature,90,89,320,0
+2024-05-07,Tuesday,Dal Makhani,82,73,307,0
+2024-05-07,Tuesday,Aloo Paratha,141,141,355,0
+2024-05-08,Wednesday,Paneer Butter Masala,113,105,379,0
+2024-05-08,Wednesday,Rajma Chawal,137,129,281,0
+2024-05-08,Wednesday,Chole Bhature,101,101,327,0
+2024-05-08,Wednesday,Dal Makhani,94,92,338,1
+2024-05-08,Wednesday,Aloo Paratha,95,94,324,0
+2024-05-09,Thursday,Paneer Butter Masala,107,101,367,0
+2024-05-09,Thursday,Rajma Chawal,80,73,347,1
+2024-05-09,Thursday,Chole Bhature,142,140,327,0
+2024-05-09,Thursday,Dal Makhani,126,121,352,0
+2024-05-09,Thursday,Aloo Paratha,136,132,220,0
+2024-05-10,Friday,Paneer Butter Masala,96,90,341,0
+2024-05-10,Friday,Rajma Chawal,85,79,276,0
+2024-05-10,Friday,Chole Bhature,125,120,297,0
+2024-05-10,Friday,Dal Makhani,141,139,271,0
+2024-05-10,Friday,Aloo Paratha,104,97,277,0
+2024-05-11,Saturday,Paneer Butter Masala,101,93,353,0
+2024-05-11,Saturday,Rajma Chawal,82,73,378,0
+2024-05-11,Saturday,Chole Bhature,124,118,227,0
+2024-05-11,Saturday,Dal Makhani,98,95,272,0
+2024-05-11,Saturday,Aloo Paratha,132,129,365,1
+2024-05-12,Sunday,Paneer Butter Masala,88,88,229,0
+2024-05-12,Sunday,Rajma Chawal,93,89,288,0
+2024-05-12,Sunday,Chole Bhature,120,117,386,1
+2024-05-12,Sunday,Dal Makhani,81,73,207,0
+2024-05-12,Sunday,Aloo Paratha,120,113,285,0
+2024-05-13,Monday,Paneer Butter Masala,95,95,382,0
+2024-05-13,Monday,Rajma Chawal,114,113,211,0
+2024-05-13,Monday,Chole Bhature,148,145,348,0
+2024-05-13,Monday,Dal Makhani,112,108,371,1
+2024-05-13,Monday,Aloo Paratha,88,85,388,0
+2024-05-14,Tuesday,Paneer Butter Masala,87,81,264,0
+2024-05-14,Tuesday,Rajma Chawal,133,125,275,0
+2024-05-14,Tuesday,Chole Bhature,101,94,251,0
+2024-05-14,Tuesday,Dal Makhani,99,91,237,0
+2024-05-14,Tuesday,Aloo Paratha,134,128,331,0
+2024-05-15,Wednesday,Paneer Butter Masala,101,99,203,0
+2024-05-15,Wednesday,Rajma Chawal,113,107,393,0
+2024-05-15,Wednesday,Chole Bhature,117,112,271,0
+2024-05-15,Wednesday,Dal Makhani,140,135,344,1
+2024-05-15,Wednesday,Aloo Paratha,144,136,335,0
+2024-05-16,Thursday,Paneer Butter Masala,119,117,298,0
+2024-05-16,Thursday,Rajma Chawal,135,135,283,0
+2024-05-16,Thursday,Chole Bhature,125,125,248,0
+2024-05-16,Thursday,Dal Makhani,99,99,242,0
+2024-05-16,Thursday,Aloo Paratha,128,119,284,0
+2024-05-17,Friday,Paneer Butter Masala,88,81,325,1
+2024-05-17,Friday,Rajma Chawal,96,89,240,0
+2024-05-17,Friday,Chole Bhature,118,112,258,0
+2024-05-17,Friday,Dal Makhani,143,141,340,0
+2024-05-17,Friday,Aloo Paratha,125,125,326,0
+2024-05-18,Saturday,Paneer Butter Masala,140,136,218,0
+2024-05-18,Saturday,Rajma Chawal,112,103,388,0
+2024-05-18,Saturday,Chole Bhature,87,79,396,0
+2024-05-18,Saturday,Dal Makhani,109,103,286,1
+2024-05-18,Saturday,Aloo Paratha,97,96,283,0
+2024-05-19,Sunday,Paneer Butter Masala,115,114,360,1
+2024-05-19,Sunday,Rajma Chawal,119,116,355,0
+2024-05-19,Sunday,Chole Bhature,94,86,275,0
+2024-05-19,Sunday,Dal Makhani,108,100,390,0
+2024-05-19,Sunday,Aloo Paratha,89,88,250,0
+2024-05-20,Monday,Paneer Butter Masala,118,116,320,0
+2024-05-20,Monday,Rajma Chawal,81,76,354,0
+2024-05-20,Monday,Chole Bhature,119,118,293,1
+2024-05-20,Monday,Dal Makhani,114,114,211,1
+2024-05-20,Monday,Aloo Paratha,141,141,300,0
+2024-05-21,Tuesday,Paneer Butter Masala,102,95,352,0
+2024-05-21,Tuesday,Rajma Chawal,100,95,227,0
+2024-05-21,Tuesday,Chole Bhature,124,118,363,0
+2024-05-21,Tuesday,Dal Makhani,109,108,321,0
+2024-05-21,Tuesday,Aloo Paratha,107,99,394,0
+2024-05-22,Wednesday,Paneer Butter Masala,127,118,303,0
+2024-05-22,Wednesday,Rajma Chawal,112,105,317,0
+2024-05-22,Wednesday,Chole Bhature,107,103,383,0
+2024-05-22,Wednesday,Dal Makhani,135,135,364,0
+2024-05-22,Wednesday,Aloo Paratha,98,89,347,0
+2024-05-23,Thursday,Paneer Butter Masala,122,122,362,0
+2024-05-23,Thursday,Rajma Chawal,148,141,263,0
+2024-05-23,Thursday,Chole Bhature,135,130,315,0
+2024-05-23,Thursday,Dal Makhani,129,125,331,0
+2024-05-23,Thursday,Aloo Paratha,138,136,287,0
+2024-05-24,Friday,Paneer Butter Masala,105,100,203,0
+2024-05-24,Friday,Rajma Chawal,129,124,250,0
+2024-05-24,Friday,Chole Bhature,109,100,342,0
+2024-05-24,Friday,Dal Makhani,116,107,324,0
+2024-05-24,Friday,Aloo Paratha,85,82,234,0
+2024-05-25,Saturday,Paneer Butter Masala,108,105,312,1
+2024-05-25,Saturday,Rajma Chawal,147,143,221,0
+2024-05-25,Saturday,Chole Bhature,92,91,248,0
+2024-05-25,Saturday,Dal Makhani,130,128,252,0
+2024-05-25,Saturday,Aloo Paratha,130,121,359,1
+2024-05-26,Sunday,Paneer Butter Masala,100,94,373,0
+2024-05-26,Sunday,Rajma Chawal,142,135,328,0
+2024-05-26,Sunday,Chole Bhature,90,87,340,0
+2024-05-26,Sunday,Dal Makhani,103,94,216,0
+2024-05-26,Sunday,Aloo Paratha,87,83,284,0
+2024-05-27,Monday,Paneer Butter Masala,98,94,363,0
+2024-05-27,Monday,Rajma Chawal,124,119,253,0
+2024-05-27,Monday,Chole Bhature,84,84,338,0
+2024-05-27,Monday,Dal Makhani,125,116,368,0
+2024-05-27,Monday,Aloo Paratha,98,89,216,0
+2024-05-28,Tuesday,Paneer Butter Masala,149,143,251,0
+2024-05-28,Tuesday,Rajma Chawal,112,105,301,0
+2024-05-28,Tuesday,Chole Bhature,143,135,354,0
+2024-05-28,Tuesday,Dal Makhani,132,131,378,0
+2024-05-28,Tuesday,Aloo Paratha,83,77,374,0
+2024-05-29,Wednesday,Paneer Butter Masala,124,124,247,0
+2024-05-29,Wednesday,Rajma Chawal,98,93,295,0
+2024-05-29,Wednesday,Chole Bhature,92,86,268,1
+2024-05-29,Wednesday,Dal Makhani,122,120,221,0
+2024-05-29,Wednesday,Aloo Paratha,143,139,241,0
+2024-05-30,Thursday,Paneer Butter Masala,120,113,393,0
+2024-05-30,Thursday,Rajma Chawal,136,134,229,0
+2024-05-30,Thursday,Chole Bhature,105,105,207,1
+2024-05-30,Thursday,Dal Makhani,86,84,229,0
+2024-05-30,Thursday,Aloo Paratha,116,116,224,1
+2024-05-31,Friday,Paneer Butter Masala,87,83,340,0
+2024-05-31,Friday,Rajma Chawal,80,77,326,0
+2024-05-31,Friday,Chole Bhature,102,94,390,0
+2024-05-31,Friday,Dal Makhani,83,78,327,0
+2024-05-31,Friday,Aloo Paratha,82,81,271,1
+2024-06-01,Saturday,Paneer Butter Masala,95,94,282,1
+2024-06-01,Saturday,Rajma Chawal,113,104,318,0
+2024-06-01,Saturday,Chole Bhature,139,138,301,1
+2024-06-01,Saturday,Dal Makhani,135,134,212,0
+2024-06-01,Saturday,Aloo Paratha,134,129,335,0
+2024-06-02,Sunday,Paneer Butter Masala,118,118,252,0
+2024-06-02,Sunday,Rajma Chawal,132,128,357,0
+2024-06-02,Sunday,Chole Bhature,136,128,218,0
+2024-06-02,Sunday,Dal Makhani,134,128,280,0
+2024-06-02,Sunday,Aloo Paratha,89,86,273,0
+2024-06-03,Monday,Paneer Butter Masala,99,98,251,0
+2024-06-03,Monday,Rajma Chawal,132,125,355,0
+2024-06-03,Monday,Chole Bhature,142,139,229,0
+2024-06-03,Monday,Dal Makhani,91,85,207,0
+2024-06-03,Monday,Aloo Paratha,128,120,233,1
+2024-06-04,Tuesday,Paneer Butter Masala,105,104,292,0
+2024-06-04,Tuesday,Rajma Chawal,129,122,237,1
+2024-06-04,Tuesday,Chole Bhature,123,115,268,1
+2024-06-04,Tuesday,Dal Makhani,90,82,355,0
+2024-06-04,Tuesday,Aloo Paratha,88,87,346,0
+2024-06-05,Wednesday,Paneer Butter Masala,94,92,299,0
+2024-06-05,Wednesday,Rajma Chawal,149,142,376,0
+2024-06-05,Wednesday,Chole Bhature,96,87,364,1
+2024-06-05,Wednesday,Dal Makhani,112,104,356,0
+2024-06-05,Wednesday,Aloo Paratha,126,120,337,0
+2024-06-06,Thursday,Paneer Butter Masala,112,105,212,0
+2024-06-06,Thursday,Rajma Chawal,147,139,216,0
+2024-06-06,Thursday,Chole Bhature,91,87,220,1
+2024-06-06,Thursday,Dal Makhani,127,121,300,0
+2024-06-06,Thursday,Aloo Paratha,126,125,240,0
+2024-06-07,Friday,Paneer Butter Masala,92,91,304,0
+2024-06-07,Friday,Rajma Chawal,110,109,299,0
+2024-06-07,Friday,Chole Bhature,117,112,272,0
+2024-06-07,Friday,Dal Makhani,124,123,299,0
+2024-06-07,Friday,Aloo Paratha,86,83,207,0
+2024-06-08,Saturday,Paneer Butter Masala,149,145,227,0
+2024-06-08,Saturday,Rajma Chawal,133,133,253,0
+2024-06-08,Saturday,Chole Bhature,136,136,212,0
+2024-06-08,Saturday,Dal Makhani,132,128,337,0
+2024-06-08,Saturday,Aloo Paratha,116,111,212,0
+2024-06-09,Sunday,Paneer Butter Masala,93,84,280,1
+2024-06-09,Sunday,Rajma Chawal,96,91,330,0
+2024-06-09,Sunday,Chole Bhature,122,114,228,0
+2024-06-09,Sunday,Dal Makhani,144,141,387,0
+2024-06-09,Sunday,Aloo Paratha,126,126,215,0
+2024-06-10,Monday,Paneer Butter Masala,106,101,385,1
+2024-06-10,Monday,Rajma Chawal,126,118,386,0
+2024-06-10,Monday,Chole Bhature,86,82,333,0
+2024-06-10,Monday,Dal Makhani,137,131,254,0
+2024-06-10,Monday,Aloo Paratha,91,87,325,0
+2024-06-11,Tuesday,Paneer Butter Masala,130,122,334,0
+2024-06-11,Tuesday,Rajma Chawal,124,119,207,0
+2024-06-11,Tuesday,Chole Bhature,146,138,303,0
+2024-06-11,Tuesday,Dal Makhani,123,114,355,0
+2024-06-11,Tuesday,Aloo Paratha,88,82,303,0
+2024-06-12,Wednesday,Paneer Butter Masala,129,124,295,0
+2024-06-12,Wednesday,Rajma Chawal,136,127,258,0
+2024-06-12,Wednesday,Chole Bhature,90,86,244,0
+2024-06-12,Wednesday,Dal Makhani,107,107,267,0
+2024-06-12,Wednesday,Aloo Paratha,133,125,251,0
+2024-06-13,Thursday,Paneer Butter Masala,105,105,373,0
+2024-06-13,Thursday,Rajma Chawal,131,123,283,0
+2024-06-13,Thursday,Chole Bhature,112,111,253,0
+2024-06-13,Thursday,Dal Makhani,140,131,214,0
+2024-06-13,Thursday,Aloo Paratha,85,80,396,0
+2024-06-14,Friday,Paneer Butter Masala,125,123,389,0
+2024-06-14,Friday,Rajma Chawal,87,87,292,0
+2024-06-14,Friday,Chole Bhature,129,124,274,0
+2024-06-14,Friday,Dal Makhani,127,120,267,0
+2024-06-14,Friday,Aloo Paratha,141,133,289,0
+2024-06-15,Saturday,Paneer Butter Masala,97,95,300,0
+2024-06-15,Saturday,Rajma Chawal,105,100,301,0
+2024-06-15,Saturday,Chole Bhature,108,107,314,0
+2024-06-15,Saturday,Dal Makhani,145,144,242,0
+2024-06-15,Saturday,Aloo Paratha,87,84,340,0
+2024-06-16,Sunday,Paneer Butter Masala,122,116,264,0
+2024-06-16,Sunday,Rajma Chawal,123,115,283,0
+2024-06-16,Sunday,Chole Bhature,107,98,235,0
+2024-06-16,Sunday,Dal Makhani,145,139,369,0
+2024-06-16,Sunday,Aloo Paratha,101,97,290,0
+2024-06-17,Monday,Paneer Butter Masala,146,137,292,0
+2024-06-17,Monday,Rajma Chawal,106,105,381,0
+2024-06-17,Monday,Chole Bhature,146,143,359,1
+2024-06-17,Monday,Dal Makhani,114,112,293,0
+2024-06-17,Monday,Aloo Paratha,96,95,290,0
+2024-06-18,Tuesday,Paneer Butter Masala,132,131,292,0
+2024-06-18,Tuesday,Rajma Chawal,80,71,313,0
+2024-06-18,Tuesday,Chole Bhature,89,81,347,1
+2024-06-18,Tuesday,Dal Makhani,144,144,321,0
+2024-06-18,Tuesday,Aloo Paratha,147,143,368,0
+2024-06-19,Wednesday,Paneer Butter Masala,130,126,255,0
+2024-06-19,Wednesday,Rajma Chawal,98,92,225,0
+2024-06-19,Wednesday,Chole Bhature,105,98,270,0
+2024-06-19,Wednesday,Dal Makhani,102,93,331,0
+2024-06-19,Wednesday,Aloo Paratha,87,79,315,0
+2024-06-20,Thursday,Paneer Butter Masala,125,117,311,0
+2024-06-20,Thursday,Rajma Chawal,94,92,321,0
+2024-06-20,Thursday,Chole Bhature,103,96,394,1
+2024-06-20,Thursday,Dal Makhani,103,96,363,0
+2024-06-20,Thursday,Aloo Paratha,113,105,266,0
+2024-06-21,Friday,Paneer Butter Masala,102,98,380,0
+2024-06-21,Friday,Rajma Chawal,141,133,380,1
+2024-06-21,Friday,Chole Bhature,133,128,387,1
+2024-06-21,Friday,Dal Makhani,119,113,337,0
+2024-06-21,Friday,Aloo Paratha,140,137,284,0
+2024-06-22,Saturday,Paneer Butter Masala,126,123,378,0
+2024-06-22,Saturday,Rajma Chawal,115,107,237,0
+2024-06-22,Saturday,Chole Bhature,137,136,286,0
+2024-06-22,Saturday,Dal Makhani,104,102,300,0
+2024-06-22,Saturday,Aloo Paratha,126,121,325,0
+2024-06-23,Sunday,Paneer Butter Masala,101,97,215,0
+2024-06-23,Sunday,Rajma Chawal,95,89,399,0
+2024-06-23,Sunday,Chole Bhature,138,137,231,0
+2024-06-23,Sunday,Dal Makhani,90,81,208,0
+2024-06-23,Sunday,Aloo Paratha,147,144,216,0
+2024-06-24,Monday,Paneer Butter Masala,100,96,322,0
+2024-06-24,Monday,Rajma Chawal,142,134,264,0
+2024-06-24,Monday,Chole Bhature,145,138,280,0
+2024-06-24,Monday,Dal Makhani,149,149,366,0
+2024-06-24,Monday,Aloo Paratha,118,110,321,0
+2024-06-25,Tuesday,Paneer Butter Masala,92,87,368,0
+2024-06-25,Tuesday,Rajma Chawal,82,82,251,0
+2024-06-25,Tuesday,Chole Bhature,126,120,275,0
+2024-06-25,Tuesday,Dal Makhani,146,137,280,0
+2024-06-25,Tuesday,Aloo Paratha,147,146,231,1
+2024-06-26,Wednesday,Paneer Butter Masala,114,107,242,0
+2024-06-26,Wednesday,Rajma Chawal,93,92,232,0
+2024-06-26,Wednesday,Chole Bhature,138,136,331,0
+2024-06-26,Wednesday,Dal Makhani,119,117,376,0
+2024-06-26,Wednesday,Aloo Paratha,106,101,396,0
+2024-06-27,Thursday,Paneer Butter Masala,141,139,263,0
+2024-06-27,Thursday,Rajma Chawal,122,113,279,0
+2024-06-27,Thursday,Chole Bhature,147,141,294,0
+2024-06-27,Thursday,Dal Makhani,136,132,221,1
+2024-06-27,Thursday,Aloo Paratha,146,145,383,0
+2024-06-28,Friday,Paneer Butter Masala,130,129,282,0
+2024-06-28,Friday,Rajma Chawal,91,87,271,0
+2024-06-28,Friday,Chole Bhature,91,91,226,0
+2024-06-28,Friday,Dal Makhani,136,132,204,1
+2024-06-28,Friday,Aloo Paratha,112,111,258,0
