@@ -23,6 +23,8 @@ daily_ratings['date'] = pd.to_datetime(daily_ratings['date'])
 food_df = food_df.merge(daily_ratings, on='date', how='left')
 food_df['avg_rating'].fillna(food_df['avg_rating'].mean(), inplace=True)
 
+# ...existing code...
+
 available_dishes = food_df['dish_name'].unique()
 
 @app.route('/')
@@ -54,6 +56,7 @@ def forecast():
     model.fit(X_train, y_train)
 
     latest = df_dish.iloc[-1]
+    
     future_dates = pd.date_range(start=food_df['date'].max() + pd.Timedelta(days=1), periods=num_days)
 
     future_df = pd.DataFrame({
@@ -78,4 +81,8 @@ def forecast():
     })
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Get port from environment variable or default to 10000
+    import os
+    port = int(os.environ.get('PORT', 10000))
+    # Make sure to bind to 0.0.0.0 so the app is accessible outside the container
+    app.run(host='0.0.0.0', port=port)
