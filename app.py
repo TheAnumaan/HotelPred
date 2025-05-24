@@ -1,19 +1,27 @@
-from flask import Flask, request, jsonify
-from flask_cors import CORS
+from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import numpy as np
 from xgboost import XGBRegressor
 from datetime import timedelta
 import joblib
 
-app = Flask(__name__)
-CORS(app)  # Enable CORS for all routes
+app = FastAPI()
 
-# Load and preprocess data once at startup
+# Enable CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Load data
 food_df = pd.read_csv("historical_food_data.csv")
 feedback_df = pd.read_csv("user_feedback_data.csv")
 
-# Convert dates
 food_df['date'] = pd.to_datetime(food_df['date'])
 food_df['day_of_week'] = pd.Categorical(food_df['day_of_week']).codes
 
@@ -23,30 +31,30 @@ daily_ratings = feedback_df.groupby('date')['rating'].mean().reset_index()
 daily_ratings.columns = ['date', 'avg_rating']
 daily_ratings['date'] = pd.to_datetime(daily_ratings['date'])
 
-# Merge feedback with food data
 food_df = food_df.merge(daily_ratings, on='date', how='left')
 food_df['avg_rating'].fillna(food_df['avg_rating'].mean(), inplace=True)
 
 available_dishes = food_df['dish_name'].unique()
 
-@app.route('/', methods=['GET'])
+class ForecastRequest(BaseModel):
+    dish: str
+    num_days: int
+
+@app.get("/")
 def home():
-    return "🍽️ Dish Forecast API is running!"
+    return {"message": "🍽️ Dish Forecast API is running with FastAPI!"}
 
-@app.route('/forecast', methods=['POST'])
-def forecast():
-    data = request.json
-
-    dish = data.get('dish')
-    num_days = data.get('num_days')
+@app.post("/forecast")
+def forecast(request: ForecastRequest):
+    dish = request.dish
+    num_days = request.num_days
 
     if dish not in available_dishes:
-        return jsonify({"error": f"Dish '{dish}' not found"}), 400
+        raise HTTPException(status_code=400, detail=f"Dish '{dish}' not found")
 
     if not isinstance(num_days, int) or num_days <= 0:
-        return jsonify({"error": "Invalid number of days"}), 400
+        raise HTTPException(status_code=400, detail="Invalid number of days")
 
-    # Filter data for selected dish
     df_dish = food_df[food_df['dish_name'] == dish].copy()
     features = ['day_of_week', 'quantity_prepared', 'occupancy', 'event_flag', 'avg_rating']
     target = 'quantity_consumed'
@@ -55,24 +63,25 @@ def forecast():
     y = df_dish[target]
 
     if len(X) < 8:
-        return jsonify({"error": "Not enough historical data for this dish"}), 400
+        raise HTTPException(status_code=400, detail="Not enough historical data for this dish")
 
-    # Train/test split (last 7 days for validation)
+    # Train and save model
     X_train = X.iloc[:-7]
     y_train = y.iloc[:-7]
-
     model = XGBRegressor(n_estimators=100, learning_rate=0.1)
     model.fit(X_train, y_train)
 
-    latest = df_dish.iloc[-1]
+    # Save model
+    joblib.dump(model, f"xgb_model_{dish.replace(' ', '_')}.pkl")
 
+    latest = df_dish.iloc[-1]
     future_dates = pd.date_range(start=food_df['date'].max() + timedelta(days=1), periods=num_days)
 
     future_df = pd.DataFrame({
         'day_of_week': future_dates.dayofweek,
         'quantity_prepared': latest['quantity_prepared'],
         'occupancy': latest['occupancy'],
-        'event_flag': 0,  # Default to no event
+        'event_flag': 0,
         'avg_rating': latest['avg_rating']
     })
 
@@ -83,12 +92,7 @@ def forecast():
         "recommended_quantity_to_prepare": float(round(pred, 2))
     } for date, pred in zip(future_dates, future_preds)]
 
-    return jsonify({
+    return {
         "dish": dish,
         "forecast": forecast
-    })
-
-if __name__ == '__main__':
-    import os
-    port = int(os.environ.get('PORT', 10000))
-    app.run(host='0.0.0.0', port=port)
+    }

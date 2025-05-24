@@ -1,7 +1,7 @@
-Flask
-flask-cors
+fastapi
+uvicorn[standard]
 pandas
 numpy
 xgboost
-joblib
 scikit-learn
+joblib
