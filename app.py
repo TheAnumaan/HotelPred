@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import pandas as pd
 import numpy as np
 from xgboost import XGBRegressor
@@ -6,6 +7,10 @@ import datetime
 import joblib
 
 app = Flask(__name__)
+CORS(app)  # Enable CORS
+
+# ... your existing code remains unchanged ...
+
 
 # Load and preprocess data once
 food_df = pd.read_csv("historical_food_data.csv")
@@ -81,8 +86,8 @@ def forecast():
     })
 
 if __name__ == '__main__':
-    # Get port from environment variable or default to 10000
+
     import os
     port = int(os.environ.get('PORT', 10000))
-    # Make sure to bind to 0.0.0.0 so the app is accessible outside the container
+  
     app.run(host='0.0.0.0', port=port)
